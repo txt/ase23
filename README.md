@@ -18,10 +18,10 @@
 <table width="100%" border=0 align=center>
 <tr>
 <td></td>
-<td align=center width=200><img           src="etc/img/lectures.gif"></td>
-<td align=center><img           src="etc/img/homework.png"></td>
-<td align=center><img           src="etc/img/review.gif"></td>
-<td align=center width=200><img  width=64 src="etc/img/time.png"></td>
+<td align=center width=200><img           src="/etc/img/lectures.gif"></td>
+<td align=center><img           src="/etc/img/homework.png"></td>
+<td align=center><img           src="/etc/img/review.gif"></td>
+<td align=center width=200><img  width=64 src="/etc/img/time.png"></td>
 </tr>
 <tr>
 <td></td>
@@ -113,7 +113,7 @@ lot of things there are to learn.
 
 We're number one! Nearly!
 
-<a href="http://csrankings.org/"><img width=900 src="etc/img/csRankings.png"></a>
+<a href="http://csrankings.org/"><img width=900 src="etc/img/csrankings.png"></a>
 
 Largest percent female faculty in CS  in the country:
 
