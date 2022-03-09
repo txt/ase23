@@ -1,6 +1,6 @@
 <a name=top><br>
 <a href="http://tiny.cc/ase22#top"><img  width=600
-  src="/etc/img/ase22.png"></a>
+  align=center src="/etc/img/ase22.png"></a>
 <hr>
 <p>
 &nbsp;<a href="https://tiny.cc/ase22">home</a> ::
