@@ -7,8 +7,8 @@
 <a href="/LICENSE.md#top">&copy;&nbsp;2022</a><br>
 <a href="/README.md#top"><img width=600  
    src="/etc/img/ase22.png"></a></p>
-   <p>
-While DevOps strives to automated everything, automated software engineering strives to **automate automation**. <p>
+   <p align=center>
+While DevOps strives to automated everything, automated software engineering strives to <b>automate automation</b>. <p>
 
 
 <table width="100%" border=0 align=center>
