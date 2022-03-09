@@ -15,10 +15,9 @@
   
 
 
-;
-
 
 
 
 
 # Syllabus
+TBD
