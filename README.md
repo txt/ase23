@@ -1,5 +1,5 @@
 <a name=top><br>
-<a href="http://tiny.cc/ase22#top"><img  width=700
+<a href="http://tiny.cc/ase22#top"><img  width=600
   src="/etc/img/ase22.png"></a>
 <hr>
 <p>
