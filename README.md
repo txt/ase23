@@ -33,24 +33,22 @@
 <tr>
 <td>
 
-Are you a great Software engineer? Can you...
+<p>
+This is a project-based class where students will use Python to build and extend their own AI tools for software engineering. 
 
-<ul>
-<li>
-Assess software options; i.e.
-<ul>
-<li>
-   Review  a system; suggest how to build it another, possibly better, way;
-  <li> Be able to assess the cost/benefits of those changes.
-    <li> including the ethical implications of different designs
-</ul>
-<li>
- Write "good" software;
-  <ul><li> Working in teams, deliver a systems of acceptable quality within eh available resources;  
-  <li> That  someone else would want to use;
-  <li> That is demonstrable _good_ (compared to something else).
-</ul>
-</ul>
+<p>
+While DevOps strives to automated everything, automated software engineering strives to automate automation. 
+
+<p>
+This subject will explore methods to augment standard software engineering practices with AI methods [data miners, optimizers, theorem provers] 
+that that peek over over our shoulders to say try this, and don't bother that.
+
+<p>Topics covered: theorem provers, data miners, multi-objective optimizers, semi-supervised learning, fairness/accountability/trust.
+
+<p>Grading: 20% essay, 25% exams; 25% small homeworks, 30% for large end-of-term project.
+ 500 level students will work in groups.
+
+<p>Textbook: none
 
 
 </td>
