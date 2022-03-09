@@ -1,5 +1,5 @@
 <a name=top><br>
-<p align=center><a href="http://tiny.cc/ase22#top"><img  width=600
+<p align=center><a href="http://tiny.cc/ase22#top"><img  
    src="/etc/img/ase22.png"></a></p>
 <hr>
 <p>
