@@ -1,6 +1,6 @@
 <a name=top><br>
-<p align=center><a href="/README.md#top"><img  
-   src="/etc/img/ase22.png"></a></p>
+<a href="/README.md#top"><img width=450  
+   src="/etc/img/ase22.png"></a>
 <hr>
 <p>
 &nbsp;<a href="/README.md#top">home</a> ::
