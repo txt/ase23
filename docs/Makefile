@@ -1,9 +1,9 @@
 all : ../LICENSE.md $(shell ls *.md)
 
-ONE=cat $< | gawk 'BEGIN {FS="\n";RS=""} {print $$0 "\n"; exit}' | gawk '{print "  " $$0} END{print("")}' 
-TWOPLUS=cat $@ | gawk 'BEGIN {FS="\n";RS=""} NR==1 { print(""); next} {print $$0 ""}'
+ONE=cat $< | gawk 'BEGIN {FS="\n";RS=""} {print $$0 "\n"; exit}' | gawk '{print "  " $$0} END{print("\n\n")}' 
+TWOPLUS=cat $@ | gawk 'BEGIN {FS="\n";RS=""} NR==1 { print("\n\n"); next} {print $$0 "\n\n"}'
 
-publish:
+pub:
 	$(MAKE) all
 	git add *;git commit -am save;git push;git status
 
