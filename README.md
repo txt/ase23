@@ -7,7 +7,8 @@
 <a href="/LICENSE.md#top">&copy;&nbsp;2022</a><br>
 <a href="/README.md#top"><img width=600  
    src="/etc/img/ase22.png"></a></p>
-
+   <p>
+While DevOps strives to automated everything, automated software engineering strives to **automate automation**. <p>
 
 
 <table width="100%" border=0 align=center>
@@ -29,19 +30,16 @@
 <td>
 
 <p>
-This is a project-based class where students will use Python to build and extend their own AI tools for software engineering. 
-
-<p>
-While DevOps strives to automated everything, automated software engineering strives to automate automation. 
-
-<p>
 This subject will explore methods to augment standard software engineering practices with AI methods [data miners, optimizers, theorem provers] 
 that that peek over over our shoulders to say try this, and don't bother that.
+
+<p>
+This is a project-based class where students will use Python to build and extend their own AI tools for software engineering. 
+ 500 level students will work in groups.
 
 <p>Topics covered: theorem provers, data miners, multi-objective optimizers, semi-supervised learning, fairness/accountability/trust.
 
 <p>Grading: 20% essay, 25% exams; 25% small homeworks, 30% for large end-of-term project.
- 500 level students will work in groups.
 
 <p>Textbook: none
 
