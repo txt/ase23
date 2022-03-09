@@ -7,7 +7,6 @@
   <a href="https://github.com/txt/ase22/blob/master/LICENSE.md#top">&copy; 2020</a>  <br>
   <a href="/README.md#top"><img width=600  
      src="/etc/img/ase22.png"></a>
-  <hr>
   
 
 
