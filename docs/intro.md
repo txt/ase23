@@ -24,7 +24,7 @@ at random from those space of options. The x-axis show how many classifications 
 of false alarms for men and women in this data. If this data was about "who must suffer  weeks of body-destroying chemotherapy?",
 which choice would you want?
 
-<img align=center src="/docs/img/nn.pdf" width=800>
+<img align=center src="/docs/img/nn.png" width=800>
 
 
 Answer1: exploring questions like "what leads to false alarms for women" is not a question for technologisits.  That is someone else's
