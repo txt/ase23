@@ -42,8 +42,9 @@ But now that we can match the brackets, our next challenge is to use that softwa
 - yielding most insight.
 
 But how?
-How can we design technology to help us ask better questions about the world?
-Well, better [design](design) a means  better exploration of more options.
+
+- How can we design technology to help us ask better questions about the world?
+- Well, better [design](design) a means  better exploration of more options.
 [Herbert Simon'96](https://monoskop.org/images/9/9c/Simon_Herbert_A_The_Sciences_of_the_Artificial_3rd_ed.pdf):
 
 <img align=right src="/docs/img/simon.jpg" width=400>
