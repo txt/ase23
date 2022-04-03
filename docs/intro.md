@@ -16,7 +16,7 @@
 
 
 
-# How to Make Computers More Useful?
+# How to Make Software More Useful?
 
 
 <img align = right width=500 src="https://i.pinimg.com/originals/2c/97/b4/2c97b421c756a19468b58546202160e1.jpg">
@@ -26,17 +26,17 @@
 ... They can only give you answers."     
 - Pablo Picasso[^0] 
 
-Welcome to the next era of software engineering:
-
-- Astronomers learn how to make lenses (what we might call bracket matching or 
+Astronomy is more than about merely building tools.
+Astronomers learn how to make lenses (what we might call bracket matching or 
    compiling);
--  Then they look through those lens to learn more abut the universe
+Then they look through those lens to learn more abut the universe
    around us.
 
-So the old challenge  point of SE was how to build software.
-We got pretty good at that kind of bracket matching.
+So the old challenge  of SE was how to build software.
+We got pretty good at that kind of bracket matching and tool building.
 
-But now that we can match the brackets, our next challenge is to use that software as a lens to explore the world around us:
+But now that we can match the brackets, its time to learn how to make best use of those
+tools. Our next challenge is to use software as a lens to explore the world around us:
 
 - with least effort
 - yielding most insight.
