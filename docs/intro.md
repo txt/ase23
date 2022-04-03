@@ -61,7 +61,9 @@ new variety and new niches."
 we offer to them the same chance for adventure, for the pursuit of new and
 interesting designs, that we have had."
 
+I.e. the world is not something we own, that we may break apart and leave broken. 
 
+- Rather, we are the stewards of the world, responsible for passing on the same (or more) resources to those that follow.
 
 
 <br clear=all>
