@@ -26,11 +26,11 @@
 ... They can only give you answers."     
 - Pablo Picasso[^0] 
 
-How can we reply to Picasso and assure him that we do not just blindly use software,
-but instead we use it to increase our insights about the world around us
-(about what we _could, should_ or _never_ change).
+How can we reply to Picasso ? How can we assure him that we do not just blindly use software?
+But instead we are using it to look at the world from  multiple perspectives, then build
+models that are nuances combinations of many points of view?
 
-Software engendering is often about build tools that some community can use.
+Well, software engendering is often about build tools that some community can use.
 How to other disciplines use their tools?
 
 Astronomy builds tools. E.g.
@@ -48,10 +48,11 @@ challenge is to use software as a lens to explore the world around us:
 But how?
 How can we design technology to help us ask better questions about the world?
 
-Well, better [design](design) a means  better exploration of more options.
+<img align=right src="/docs/img/simon.jpg" width=400>
+
+Now, better [design](design) a means  better exploration of more options.
 [Herbert Simon'96](https://monoskop.org/images/9/9c/Simon_Herbert_A_The_Sciences_of_the_Artificial_3rd_ed.pdf) tells us:
 
-<img align=right src="/docs/img/simon.jpg" width=400>
 
 > "It is true that humanity is faced with many problems. It always has
 been but perhaps not always with such keen awareness of them as we have today.
