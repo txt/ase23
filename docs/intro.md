@@ -23,9 +23,14 @@ To which I say:
 
 
 
-For example, shown ehre are the chocies inside a nearest neighbor classifier. Each blue dot is a classifeir confirgured
-at random from those space of options. The x-axis show how many classifications were correct. THe y-axis shows the ratio
-of false alarms for men and women in this data. If this data was about "who must suffer  weeks of body-destroying chemotherapy?",
+For example, shown here are the choices inside a nearest neighbor classifier:
+- Each blue dot is a classifier configured
+at random from those space of options. 
+- The x-axis show how many classifications were correct. 
+- The y-axis shows the ratio
+of false alarms for men and women in this data. 
+
+If this data was about "who must suffer  weeks of body-destroying chemotherapy?",
 which choice would you want?
 
 <img align=center src="/docs/img/nn.png" width=800>
