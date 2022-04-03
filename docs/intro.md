@@ -75,11 +75,12 @@ selected by sight and movement. As a result of this belief, his cubist style [^0
 became about _how_ to see an object or figure rather than _what_ the
 artist was looking at.
 
+<img align=right width=150 src="https://artofquotation.files.wordpress.com/2019/05/b5b5518c-606c-4eb0-aa2b-090d6dcf5ac0.jpeg?w=816">
+
 Similarly, I'm suggesting here that we should change automated software engineering such that it reflects more
 on _how_ it builds models.
 Not just just build things and change things. Susan Sontag once said 
 
-<img align=right width=200 src="https://artofquotation.files.wordpress.com/2019/05/b5b5518c-606c-4eb0-aa2b-090d6dcf5ac0.jpeg?w=816">
 
 > "The only interesting answers are those that destroy the questions."
 
