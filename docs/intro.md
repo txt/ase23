@@ -96,6 +96,18 @@ Answer6: the question is pointless, there is nothing I can do anyway.  To which 
 
 “If there’s one question I want to persuade you to ask more often, it’s ‘What am I missing?’”
 
-[^0]: From [MFA Masterworks](https://news.masterworksfineart.com/2018/10/31/pablo-picasso-and-cubism#:~:text=In%20collaboration%20with%20his%20friend,how%20he%20achieved%20this%20goal.):  Pablo Picasso pioneered the Cubism movement, a revolutionary style of modern art that Picasso formed in response to the rapidly changing modern world.   Picasso wanted to emphasize the difference between a painting and reality.Cubism involves different ways of seeing, or perceiving, the world around us. He felt that we do not see an object from one angle or perspective, but rather from many angles selected by sight and movement. As a result of this belief, Cubism became about how to see an object or figure rather than what the artist was looking at.
-[^1]: Just as ["All lives can't matter until black lives matter"](https://www.youtube.com/watch?v=Pu2LOSGbNpg), so to will all  designs miss important matters until we learn how to find what matters."
+[^0]: From [MFA
+Masterworks](https://news.masterworksfineart.com/2018/10/31/pablo-picasso-and-cubism#:~:text=In%20collaboration%20with%20his%20friend,how%20he%20achieved%20this%20goal.):
+"Pablo Picasso pioneered the Cubism movement, a revolutionary style
+of modern art that Picasso formed in response to the rapidly changing
+modern world.   Picasso wanted to emphasize the difference between
+a painting and reality.Cubism involves different ways of seeing,
+or perceiving, the world around us. He felt that we do not see an
+object from one angle or perspective, but rather from many angles
+selected by sight and movement. As a result of this belief, Cubism
+became about how to see an object or figure rather than what the
+artist was looking at."
+
+[^1]: Just as ["All lives can't matter until black lives matter"](https://www.youtube.com/watch?v=Pu2LOSGbNpg), so to will all  designs miss important matters until we learn "how to find what matters."
+
 [^2]: And such social-level fixes are going to need a  lot of work from a lot of people.  e.g. [on page 179 of Nobel'18](https://www.biblio.com/9781479837243). such fixes are listes as "decoupling of advertising and commercial interests from the ability to access high-quality information on the Internet”, “suspend the circulation of racist and sexist material that is used to erode our civil and human rights”; and require that all search results be annotated to symbolize e.g. pornography (in red), business or commercial material (in green), entertainment (in orange), etc.
