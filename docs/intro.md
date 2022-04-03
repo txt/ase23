@@ -6,7 +6,7 @@
 They can only give you answers."     
 -- Pablo Picasso[^0] 
 
-So, can we make technology to help us ask better questions bout the world?
+So, can we make technology to help us ask better questions about the world?
 
 <br clear=all>
 
@@ -19,9 +19,11 @@ To which I say:
 - Why not both?
 - Data miners, optimizers, theorem provers are algoritms.
   Algorithms make choices. Choices have consequences. Don't you know how to control those consequences?
-- And you don't reflect on the broader picture, are you actually introducing bugs into your automated software?
-- So if you don't reflect on how to use software to makde better choices, are you making worse software [^1].
-  For example, shown ehre are the chocies inside a nearest neighbor classifier. Each blue dot is a classifeir confirgured
+- If you don't reflect on how to use software to makde better choices, are you making worse software [^1].
+
+
+
+For example, shown ehre are the chocies inside a nearest neighbor classifier. Each blue dot is a classifeir confirgured
 at random from those space of options. The x-axis show how many classifications were correct. THe y-axis shows the ratio
 of false alarms for men and women in this data. If this data was about "who must suffer  weeks of body-destroying chemotherapy?",
 which choice would you want?
