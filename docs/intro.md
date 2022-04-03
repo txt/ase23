@@ -26,9 +26,6 @@
 They can only give you answers."     
 -- Pablo Picasso[^0] 
 
-> Sure, computers can make decisions. But they
-can also help us to learn more about the world around us, and when we need to _change_ those decisions.
-
 Welcome to the next era of software engineering:
 
 - Astronomers learn how to make lenses (what we might call bracket matching or 
@@ -40,29 +37,12 @@ So the old challenge  point of SE was how to build software.
 We got pretty good at that kind of bracket matching.
 
 But now that we can match the brackets, our next challenge is to use that software as a lens to explore the world around us:
+with least effort
+yielding most insight.
 
-- with least effort
-- yielding most insight.
-
-So, can we make technology to help us ask better questions about the world?
-
-
-<br clear=all>
-
-## Answer1: USe AI
-
-Herbert Simon: design is the quintessential human  activity.
-
-Design = navigating a space of constraints in order  to made choices
-
-The principle of rationality: [Newell'81](https://ojs.aaai.org//index.php/aimagazine/article/view/99):
-
-> Knowledge is built on top of a lower-level of symbolic routines.
-An agent has a body of knowledge, some goals to achieve and some actions 
-   that it can perform. The _principle of rationality_ is that
-the agent performs those actions that, on the basis of the knowledge it has, bring it closer to the goals.
-
-Better design means  better exploration of options.
+But how?
+How can we design technology to help us ask better questions about the world?
+Well, better [design](design) means  better exploration of options.
 [Simon'96](https://monoskop.org/images/9/9c/Simon_Herbert_A_The_Sciences_of_the_Artificial_3rd_ed.pdf):
 
 > "It is true that humanity is faced with many problems. It always has
@@ -74,6 +54,12 @@ perhaps even to **broaden them** a bit by creating
 new variety and new niches. Our grandchildren cannot ask more of us than that
 we offer to them the same chance for adventure, for the pursuit of new and
 interesting designs, that we have had."
+
+
+
+
+<br clear=all>
+
 
 ## Answer0: Who Cares? I'm  not here to study philosophy. 
 
