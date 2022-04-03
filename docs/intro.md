@@ -40,7 +40,8 @@ I just want
 to learn abut data miners, optimizers, and theorem provers
 
 
-<img align=left width=1o0 src="/docs/img/otherhand.jpeg">
+<img align=left width=100 src="/docs/img/otherhand.jpeg">
+
 To which I say:
 - Why not both?
 <br clear=all>
