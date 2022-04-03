@@ -45,7 +45,9 @@ But how?
 
 - How can we design technology to help us ask better questions about the world?
 - Well, better [design](design) a means  better exploration of more options.
-[Herbert Simon'96](https://monoskop.org/images/9/9c/Simon_Herbert_A_The_Sciences_of_the_Artificial_3rd_ed.pdf):
+
+
+[Herbert Simon'96](https://monoskop.org/images/9/9c/Simon_Herbert_A_The_Sciences_of_the_Artificial_3rd_ed.pdf) says:
 
 <img align=right src="/docs/img/simon.jpg" width=400>
 
@@ -56,6 +58,8 @@ these problems. Our essential task (a big enough one to be sure) is
 simply to _keep open the options for the future_ or 
 perhaps even to **broaden them** a bit by creating
 new variety and new niches."
+
+Simon is adamant about the implications of our choices:
 
 > "Our grandchildren cannot ask more of us than that
 we offer to them the same chance for adventure, for the pursuit of new and
