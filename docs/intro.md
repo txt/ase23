@@ -61,10 +61,6 @@ new variety and new niches."
 we offer to them the same chance for adventure, for the pursuit of new and
 interesting designs, that we have had."
 
-I.e. the world is not something we own, that we may break apart and leave broken. 
-
-- Rather, we are the stewards of the world, responsible for passing on the same (or more) resources to those that follow.
-
 
 <br clear=all>
 
@@ -75,30 +71,26 @@ I.e. the world is not something we own, that we may break apart and leave broken
 I'm a software engineering. All I care abut is bracket matching.
 Tell me a few tricks about
 data miners, optimizers, and theorem provers
+which  I can add to my resume.
 
-iwh I can add to my resume.
-<img align=left width=100 src="/docs/img/otherhand.jpeg">
+To which I say: Why not both?
 
-To which I say:
-- Why not both?
-<br clear=all>
-
-Data miners, optimizers, theorem provers are algorithms.
- 
+- Data miners, optimizers, theorem provers are algorithms.
 - Algorithms make choices. Choices have consequences. Don't you know how to control those consequences?
 - If you don't reflect on how to use software to make better choices, are you making worse software [^1].
 
 
-For example, shown here are the choices inside a nearest neighbor classifier:
+For example, are the choices (and consequences of those choices) inside a nearest neighbor classifier. Suppose those
+classifier 
+is about "who gets selected for  months of body-destroying chemotherapy and its associated nausea and wretchedness?".
+Which choice would you want? And if we just optimized for accuracy, would we find that choice?
+
 - Each blue dot is a classifier configured
-at random from those space of options. 
+at [random](random) from those space of options. 
 - The x-axis show how many classifications were correct. 
 - The y-axis shows the ratio
 of false alarms for men and women in this data. 
 
-
-If this data was about "who must suffer  weeks of body-destroying chemotherapy?",
-which choice would you want?
 
 
 <img align=center src="/docs/img/nn.png" width=800>
