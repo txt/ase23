@@ -33,7 +33,7 @@ So, can we make technology to help us ask better questions about the world?
 <br clear=all>
 
 
-## Answer0: I not here to study philosophy. 
+## Answer0: Who Cares? I not here to study philosophy. 
 
 
 I just want
@@ -62,20 +62,23 @@ which choice would you want?
 <img align=center src="/docs/img/nn.png" width=800>
 
 
-Answer1: exploring questions like "what leads to false alarms for women" is not a question for technologisits.  That is someone else's
+## Answer1: Who Cares? This is not my problem
+
+Exploring questions like "what leads to false alarms for women" is not a question for engineers.  That is someone else's
 problem.
 
+- Maybe not. [Nobel'77](
 
-Answer2: This is absolutely our problem. Our house is on fire and we need do
-something about it
+## Answer2: Time to act! The house is on fire!
+
+This is absolutely everybody's  problem. All hands on deck. 
+There is some bad sh*t going doing.
 
 
-- Automatoc Recidivism models are more likely to 
+- Automatic Recidivism models are more likely to 
 [falsely label black defendants as future criminals](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
- at twice the rate as white defen-
-dants.
-- Widely-used facial recognition software that predicts char-
-acteristics, such as gender and age, has a 
+ at twice the rate as white defendants.
+- Widely-used facial recognition software that predicts characteristics, such as gender and age, has a 
 [much higher error rate for dark-skinned women compared to light-skinned
 men](https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212)
 - Amazon’s ML software to offer same-day delivery to prime
@@ -92,17 +95,21 @@ becomes “He is an engineer, She is a nurse” [27].
 [Nobel'18](https://www.biblio.com/9781479837243).
 
 
-Answer3: "We" (i.e. engineers) are the wrong people to solve this.
-Technology has alsways been selected to gavour the ruling elite.
-ogy and, as such, they are selected to [favor the ruling elite](https://www.google.com/books/edition/America_by_Design/LBYlAV6VmpwC?hl=en&gbpv=0)
+## Answer3: "We" (i.e. engineers) can never solve this
+
+Wrong to confuse social problems with technical problems.
+
+According to [Noble'77](https://www.google.com/books/edition/America_by_Design/LBYlAV6VmpwC?hl=en&gbpv=0),
+t'was ever so.
+Technology has always been selected to favor the ruling elite.
+ogy and, as such, they are selected to 
 In
-this view, algorithms are as inherently as bad (racist, sexist, extrem-
-ist, misinforming) as anything else selected by their social context.
+this view, algorithms are as inherently as bad (racist, sexist, extremist, misinforming) as anything else selected by their social context.
 Hence there is no value in fixing algorithms until we first fix the
 society that selects and deploys them [^2]
 
 
-Answer4: We (engieers) cuased the problem. We are responsible. We need to take action. 
+Answer4: We (engineers) cuased the problem. We are responsible. We need to take action. 
 
 
 > "Technical decisions end up shaping the choices we make about how to present ourselves, 
@@ -115,7 +122,7 @@ actions based on our feelings. These platforms also can be used by
 Facebook whistle- blower Francis Haugen told the U.S. Congress. Haugen testified in 
 October 2021 that Facebook knowingly served content containing hate speech and misinformation 
 to its users, since that increased engagement. Some of the users receiving that content then 
-decided to speak and act in hateful ways, which caused mental and physical harm to others. 
+decided [to](to) speak and act in hateful ways, which caused mental and physical harm to others. 
 In one scenario, Haugen said, the company's technology was even used to fan the flames of genocide in Myanmar, literally costing lives.   
 -- [Kugler'22](https://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality/fulltext),
 
