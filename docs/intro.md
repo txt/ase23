@@ -62,7 +62,18 @@ An agent has a body of knowledge, some goals to achieve and some actions
    that it can perform. The _principle of rationality_ is that
 the agent performs those actions that, on the basis of the knowledge it has, bring it closer to the goals.
 
+Better design means  better exploration of options.
+[Simon'96](https://monoskop.org/images/9/9c/Simon_Herbert_A_The_Sciences_of_the_Artificial_3rd_ed.pdf):
 
+> "It is true that humanity is faced with many problems. It always has
+been but perhaps not always with such keen awareness of them as we have today.
+We might be more optimistic if we recognized that we do not have to solve all of
+these problems. Our essential task (a big enough one to be sure) is 
+simply to _keep open the options for the future_ or 
+perhaps even to **broaden them** a bit by creating
+new variety and new niches. Our grandchildren cannot ask more of us than that
+we offer to them the same chance for adventure, for the pursuit of new and
+interesting designs, that we have had."
 
 ## Answer0: Who Cares? I'm  not here to study philosophy. 
 
