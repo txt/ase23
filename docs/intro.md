@@ -109,7 +109,7 @@ Hence there is no value in fixing algorithms until we first fix the
 society that selects and deploys them [^2]
 
 
-<img align=left width=150 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fenglishhelponline.me%2F2014%2F07%2F21%2Fgrammatical-expression-on-the-other-hand%2F&psig=AOvVaw20zlWc5hOb2NZ5jJjrnDd0&ust=1649095031575000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCmtvm7-PYCFQAAAAAdAAAAABAD">
+<img align=left width=150 src="https://i.ytimg.com/vi/Z1i4rq3RiDE/maxresdefault.jpg">
 
 We (engineers) caused the problem. We are responsible. We need to take action. 
 
