@@ -40,11 +40,15 @@ I just want
 to learn abut data miners, optimizers, and theorem provers
 
 
+<img align=left width=1o0 src="/docs/img/otherhand.jpeg">
 To which I say:
 - Why not both?
-- Data miners, optimizers, theorem provers are algoritms.
-  Algorithms make choices. Choices have consequences. Don't you know how to control those consequences?
-- If you don't reflect on how to use software to makde better choices, are you making worse software [^1].
+<br clear=all>
+
+Data miners, optimizers, theorem provers are algorithms.
+ 
+- Algorithms make choices. Choices have consequences. Don't you know how to control those consequences?
+- If you don't reflect on how to use software to make better choices, are you making worse software [^1].
 
 
 For example, shown here are the choices inside a nearest neighbor classifier:
