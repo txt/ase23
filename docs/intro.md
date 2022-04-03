@@ -78,7 +78,7 @@ Similarly, I'm suggesting here that we should change automated software engineer
 on _how_ it builds models.
 Not just just build things and change things. Susan Sontag once said 
 
-<img align=right width=300 src="https://artofquotation.files.wordpress.com/2019/05/b5b5518c-606c-4eb0-aa2b-090d6dcf5ac0.jpeg?w=816">
+<img align=right width=200 src="https://artofquotation.files.wordpress.com/2019/05/b5b5518c-606c-4eb0-aa2b-090d6dcf5ac0.jpeg?w=816">
 
 > "The only interesting answers are those that destroy the questions."
 
