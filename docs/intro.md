@@ -109,7 +109,7 @@ Hence there is no value in fixing algorithms until we first fix the
 society that selects and deploys them [^2]
 
 
-<img align=left width=150 src="https://cachedimages.podchaser.com/128x128/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9wcm9kdWN0aW9uL3BvZGNhc3RfdXBsb2FkZWRfbm9sb2dvLzU3MTI5NjAvNTcxMjk2MC0xNTkwMTA0Njk0NDM2LWFlOTY3NDcxOWJjNjMuanBn/aHR0cHM6Ly93d3cucG9kY2hhc2VyLmNvbS9pbWFnZXMvbWlzc2luZy1pbWFnZS5wbmc%3D">
+<img align=left width=150 src="/docs/img/otherhand.jpeg">
 
 We (engineers) caused the problem. We are responsible. We need to take action. 
 
