@@ -42,8 +42,8 @@ yielding most insight.
 
 But how?
 How can we design technology to help us ask better questions about the world?
-Well, better [design](design) means  better exploration of options.
-[Simon'96](https://monoskop.org/images/9/9c/Simon_Herbert_A_The_Sciences_of_the_Artificial_3rd_ed.pdf):
+Well, better [design](design) a means  better exploration of more options.
+[Herbert Simon'96](https://monoskop.org/images/9/9c/Simon_Herbert_A_The_Sciences_of_the_Artificial_3rd_ed.pdf):
 
 <img align=right src="/docs/img/simon.jpg" width=400>
 
