@@ -22,8 +22,8 @@
 <img align = right width=500 src="https://i.pinimg.com/originals/2c/97/b4/2c97b421c756a19468b58546202160e1.jpg">
 
 
-"Computers are useless...   
-They can only give you answers."     
+"Computers are useless ...   
+... They can only give you answers."     
 - Pablo Picasso[^0] 
 
 Welcome to the next era of software engineering:
@@ -84,7 +84,7 @@ To which I say: Why not both?
 - If you don't reflect on how to use software to make better choices, are you making worse software [^1].
 
 
-For example, are the choices (and consequences of those choices) inside a nearest neighbor classifier. Suppose those
+For example, here are the choices (and consequences of those choices) inside a nearest neighbor classifier. Suppose this
 classifier 
 is about "who gets selected for  months of body-destroying chemotherapy and its associated nausea and wretchedness?".
 Which choice would you want? And if we just optimized for accuracy, would we find that choice?
