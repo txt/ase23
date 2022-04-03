@@ -37,8 +37,9 @@ So the old challenge  point of SE was how to build software.
 We got pretty good at that kind of bracket matching.
 
 But now that we can match the brackets, our next challenge is to use that software as a lens to explore the world around us:
-with least effort
-yielding most insight.
+
+- with least effort
+- yielding most insight.
 
 But how?
 How can we design technology to help us ask better questions about the world?
