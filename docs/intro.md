@@ -3,7 +3,7 @@
 <img align = right width=500 src="https://i.pinimg.com/originals/2c/97/b4/2c97b421c756a19468b58546202160e1.jpg">
 
 "Computers are useless...   
-They can only give you answers."
+They can only give you answers."     
 -- Pablo Picasso[^0] 
 
 So, can we make technology to help us ask better questions bout the world?
