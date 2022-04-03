@@ -74,8 +74,15 @@ selected by sight and movement. As a result of this belief, his cubist style [^0
 became about _how_ to see an object or figure rather than _what_ the
 artist was looking at.
 
-Similarly, I'm suggesting here that we should use automated software engineering not just as  method
-for building things. But also for reviewing more options along the way. If that  seems a little vague to you,
+Similarly, I'm suggesting here that we should change automated software engineering such that it reflects more
+on _how_ it builds models.
+Not just just build things and change things. Susan Sontag once said 
+
+<img align=right width=300 src="https://artofquotation.files.wordpress.com/2019/05/b5b5518c-606c-4eb0-aa2b-090d6dcf5ac0.jpeg?w=816">
+
+> "The only interesting answers are those that destroy the questions."
+
+But also for reviewing more options along the way. If that  seems a little vague to you,
 then I'll repeat using the language of high-church SE theory. Don't worry if you the following paragraph makes no sense
 to you. By the time I'm done with you, you will be surprosed at just how easy is the following.
 
