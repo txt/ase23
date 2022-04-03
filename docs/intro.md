@@ -1,4 +1,4 @@
-# How to Make Computers Smarter/
+# How to Make Computers Smarter?
 
 <img align = right width=500 src="https://i.pinimg.com/originals/2c/97/b4/2c97b421c756a19468b58546202160e1.jpg">
 
@@ -6,7 +6,9 @@
 They can only give you answers"       
 -- Pablo Picasso[^0] 
 
-Can we make techniogy to help us ask better questions bout the world?
+So, can we make technology to help us ask better questions bout the world?
+
+<br clear=all>
 
 ## Answer0: I not here to study philosophy. 
 
