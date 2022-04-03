@@ -33,7 +33,7 @@ So, can we make technology to help us ask better questions about the world?
 <br clear=all>
 
 
-## Answer0: Who Cares? I not here to study philosophy. 
+## Answer0: Who Cares? I'm  not here to study philosophy. 
 
 
 I just want
@@ -67,15 +67,15 @@ which choice would you want?
 Exploring questions like "what leads to false alarms for women" is not a question for engineers.  That is someone else's
 problem.
 
-- Maybe not. [Nobel'77](
+- Maybe not. [Nobel'77(xxxx
 
 ## Answer2: Time to act! The house is on fire!
 
 This is absolutely everybody's  problem. All hands on deck. 
-There is some bad sh*t going doing.
+There is some bad sh*t going down.
 
 
-- Automatic Recidivism models are more likely to 
+- Automatic recidivism models are more likely to 
 [falsely label black defendants as future criminals](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
  at twice the rate as white defendants.
 - Widely-used facial recognition software that predicts characteristics, such as gender and age, has a 
@@ -109,7 +109,9 @@ Hence there is no value in fixing algorithms until we first fix the
 society that selects and deploys them [^2]
 
 
-Answer4: We (engineers) cuased the problem. We are responsible. We need to take action. 
+<img align=left width=150 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fenglishhelponline.me%2F2014%2F07%2F21%2Fgrammatical-expression-on-the-other-hand%2F&psig=AOvVaw20zlWc5hOb2NZ5jJjrnDd0&ust=1649095031575000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCmtvm7-PYCFQAAAAAdAAAAABAD">
+
+We (engineers) caused the problem. We are responsible. We need to take action. 
 
 
 > "Technical decisions end up shaping the choices we make about how to present ourselves, 
@@ -123,7 +125,8 @@ Facebook whistle- blower Francis Haugen told the U.S. Congress. Haugen testified
 October 2021 that Facebook knowingly served content containing hate speech and misinformation 
 to its users, since that increased engagement. Some of the users receiving that content then 
 decided [to](to) speak and act in hateful ways, which caused mental and physical harm to others. 
-In one scenario, Haugen said, the company's technology was even used to fan the flames of genocide in Myanmar, literally costing lives.   
+In one scenario, Haugen said, the company's technology was even used to fan the flames of genocide in Myanmar, 
+literally costing lives."   
 -- [Kugler'22](https://cacm.acm.org/magazines/2022/4/259390-technologys-impact-on-morality/fulltext),
 
 
@@ -171,7 +174,7 @@ what matters."
 [^2]: And such social-level fixes are going to need a  lot of work
 from a lot of people.  e.g. [on page 179 of
 Nobel'18](https://www.biblio.com/9781479837243). such fixes are
-listes as "decoupling of advertising and commercial interests from
+listed as "decoupling of advertising and commercial interests from
 the ability to access high-quality information on the Internet”,
 “suspend the circulation of racist and sexist material that is used
 to erode our civil and human rights”; and require that all search
