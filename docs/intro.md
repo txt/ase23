@@ -31,14 +31,16 @@ can also help us to learn more about the world around us
 
 Welcome to the next era of software engineering:
 
-- Astronomers learn how to make lenses (what we might call bracket matching or comping);
+- Astronomers learn how to make lenses (what we might call bracket matching or 
+   compiling);
 -  Then they look through those lens to learn more abut the universe
    around us.
 
 So the old challenge  point of SE was how to build software.
 We got pretty good at that.
 
-Our next challenge is to _use_ that software as a lens to explore
+Our next challenge, after the age of bracket matching,
+is to _use_ that software as a lens to explore
 the world around us:
 - 
 - with least effort
