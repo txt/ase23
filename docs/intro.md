@@ -49,8 +49,8 @@ Well, better [design](design) means  better exploration of options.
 been but perhaps not always with such keen awareness of them as we have today.
 We might be more optimistic if we recognized that we do not have to solve all of
 these problems. Our essential task (a big enough one to be sure) is 
-simply to _keep open the options for the future_ or 
-perhaps even to **broaden them** a bit by creating
+simply to <u>_keep open the options for the future_</u> or 
+perhaps even to <u>**broaden them**</u> a bit by creating
 new variety and new niches. Our grandchildren cannot ask more of us than that
 we offer to them the same chance for adventure, for the pursuit of new and
 interesting designs, that we have had."
