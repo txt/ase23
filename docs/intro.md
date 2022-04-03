@@ -55,7 +55,9 @@ We might be more optimistic if we recognized that we do not have to solve all of
 these problems. Our essential task (a big enough one to be sure) is 
 simply to _keep open the options for the future_ or 
 perhaps even to **broaden them** a bit by creating
-new variety and new niches. Our grandchildren cannot ask more of us than that
+new variety and new niches."
+
+> "Our grandchildren cannot ask more of us than that
 we offer to them the same chance for adventure, for the pursuit of new and
 interesting designs, that we have had."
 
