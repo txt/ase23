@@ -108,6 +108,17 @@ selected by sight and movement. As a result of this belief, Cubism
 became about how to see an object or figure rather than what the
 artist was looking at."
 
-[^1]: Just as ["All lives can't matter until black lives matter"](https://www.youtube.com/watch?v=Pu2LOSGbNpg), so to will all  designs miss important matters until we learn "how to find what matters."
+[^1]: Just as ["All lives can't matter until black lives
+matter"](https://www.youtube.com/watch?v=Pu2LOSGbNpg), so to will
+all  designs miss important matters until we learn "how to find
+what matters."
 
-[^2]: And such social-level fixes are going to need a  lot of work from a lot of people.  e.g. [on page 179 of Nobel'18](https://www.biblio.com/9781479837243). such fixes are listes as "decoupling of advertising and commercial interests from the ability to access high-quality information on the Internet”, “suspend the circulation of racist and sexist material that is used to erode our civil and human rights”; and require that all search results be annotated to symbolize e.g. pornography (in red), business or commercial material (in green), entertainment (in orange), etc.
+[^2]: And such social-level fixes are going to need a  lot of work
+from a lot of people.  e.g. [on page 179 of
+Nobel'18](https://www.biblio.com/9781479837243). such fixes are
+listes as "decoupling of advertising and commercial interests from
+the ability to access high-quality information on the Internet”,
+“suspend the circulation of racist and sexist material that is used
+to erode our civil and human rights”; and require that all search
+results be annotated to symbolize e.g. pornography (in red), business
+or commercial material (in green), entertainment (in orange), etc.
