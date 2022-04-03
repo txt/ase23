@@ -26,20 +26,54 @@
 They can only give you answers."     
 -- Pablo Picasso[^0] 
 
+Sure, computers can make decisions. But they
+can also help us to learn more about the world around us
+
+Welcome to the next era of software engineering:
+
+- Astronomers learn how to make lenses (what we might call bracket matching or comping);
+-  Then they look through those lens to learn more abut the universe
+   around us.
+
+So the old challenge  point of SE was how to build software.
+We got pretty good at that.
+
+Our next challenge is to _use_ that software as a lens to explore
+the world around us:
+- 
+- with least effort
+- yielding most insight.
 
 So, can we make technology to help us ask better questions about the world?
 
 
 <br clear=all>
 
+## Answer1: USe AI
+
+Herbert Simon_ design i the quentessial human activity
+
+Design = navigating a space of constraints in order  to made choices
+
+Allen Newell: _ principle of rationality_
+
+
+> Knwlege is built on top of a lower-level of symbolic routnines.
+An agent has a body of knowledge, some goals to achieve and some actions 
+   that it can perform. 
+An agent's behavior is determined by the "principle of rationality": 
+- the agent performs those actions that, on the basis of the knowledge it has, bring it closer to the goals.
+
+
 
 ## Answer0: Who Cares? I'm  not here to study philosophy. 
 
 
-I just want
-to learn abut data miners, optimizers, and theorem provers
+I'm a software engineering. All I care abut is bracket matching.
+Tell me a few tricks about
+data miners, optimizers, and theorem provers
 
-
+iwh I can add to my resume.
 <img align=left width=100 src="/docs/img/otherhand.jpeg">
 
 To which I say:
