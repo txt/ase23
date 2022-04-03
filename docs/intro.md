@@ -26,8 +26,8 @@
 They can only give you answers."     
 -- Pablo Picasso[^0] 
 
-Sure, computers can make decisions. But they
-can also help us to learn more about the world around us
+> Sure, computers can make decisions. But they
+can also help us to learn more about the world around us.
 
 Welcome to the next era of software engineering:
 
