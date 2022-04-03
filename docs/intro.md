@@ -27,10 +27,11 @@
 - Pablo Picasso[^0] 
 
 Astronomy is more than about merely building tools.
-Astronomers learn how to make lenses (what we might call bracket matching or 
-   compiling);
-Then they look through those lens to learn more abut the universe
-   around us.
+Astronomers learn how to (e.g.) make lenses (what we might call bracket matching or 
+   compiling).
+   But once that is done,
+then they those tools to look through those lens to learn more abut the universe
+   around them.
 
 So the old challenge  of SE was how to build software.
 We got pretty good at that kind of bracket matching and tool building.
