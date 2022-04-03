@@ -1,10 +1,11 @@
 asas
 
-"Computers are stupdi......    
-THey can only give you answers"       
+<img align = right width=500 src="https://i.pinimg.com/originals/2c/97/b4/2c97b421c756a19468b58546202160e1.jpg">
+"Computers are stupid......    
+They can only give you answers"       
 -- Pablo Picasso
 
-Can we deisign techniogy tohelp us ask better questionsa bout the world?
+Can we make techniogy to help us ask better questions bout the world?
 
 Answer1: this is not a question for technologisits.  That is someone else's
 problem.
@@ -46,8 +47,7 @@ society that selects and deploys them [^1]
 
 Answer4: We (engieers) cuased the problem. We are responsible. We need to take action. 
 
-> 
-"Technical decisions end up shaping the choices we make about how to present ourselves, 
+> "Technical decisions end up shaping the choices we make about how to present ourselves, 
 which in turn shapes how we view ourselves and other people."...   
 "Social media platforms can serve us content that enrages or
 depresses us, making it more (or less) likely we will take immoral
