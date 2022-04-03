@@ -105,7 +105,7 @@ a painting and reality.Cubism involves different ways of seeing,
 or perceiving, the world around us. He felt that we do not see an
 object from one angle or perspective, but rather from many angles
 selected by sight and movement. As a result of this belief, Cubism
-became about how to see an object or figure rather than what the
+became about _how_ to see an object or figure rather than _what_ the
 artist was looking at."
 
 [^1]: Just as ["All lives can't matter until black lives
