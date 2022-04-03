@@ -24,7 +24,7 @@
 
 "Computers are useless...   
 They can only give you answers."     
--- Pablo Picasso[^0] 
+- Pablo Picasso[^0] 
 
 Welcome to the next era of software engineering:
 
@@ -72,10 +72,10 @@ interesting designs, that we have had."
 ## Answer0: Who Cares? I'm  not here to study philosophy. 
 
 
-I'm a software engineering. All I care abut is bracket matching.
+> "I'm a software engineering. All I care abut is bracket matching.
 Tell me a few tricks about
 data miners, optimizers, and theorem provers
-which  I can add to my resume.
+which  I can add to my resume."
 
 To which I say: Why not both?
 
