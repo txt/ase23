@@ -1,0 +1,11 @@
+--2022-04-03 14:36:28--  https://i0.wp.com/article1000.com/wp-content/uploads/2017/08/248fea555c07b4ccdd278abd0940bab2.jpg?fit=494%2C264
+Resolving i0.wp.com (i0.wp.com)... 192.0.77.2
+Connecting to i0.wp.com (i0.wp.com)|192.0.77.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35761 (35K) [image/jpeg]
+Saving to: ‘d’
+
+d                        0%[                            ]       0  --.-KB/s               d                      100%[===========================>]  34.92K  --.-KB/s    in 0.03s   
+
+2022-04-03 14:36:29 (1.21 MB/s) - ‘d’ saved [35761/35761]
+
