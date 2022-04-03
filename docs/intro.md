@@ -37,9 +37,9 @@ Welcome to the next era of software engineering:
    around us.
 
 So the old challenge  point of SE was how to build software.
-We got pretty good at that.
+We got pretty good at that kind of bracket matching.
 
-Our next challenge, after the age of bracket matching, is to use that software as a lens to explore the world around us:
+But now that we can match the brackets, our next challenge is to use that software as a lens to explore the world around us:
 
 - with least effort
 - yielding most insight.
