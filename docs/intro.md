@@ -26,25 +26,27 @@
 ... They can only give you answers."     
 - Pablo Picasso[^0] 
 
-Astronomy is more than about merely building tools.
-Astronomers learn how to (e.g.) make lenses (what we might call bracket matching or 
-   compiling).
+How can we reply to Picasso and assure him that we do not just blindly use software,
+but instead we use it to increase our insights about the world around us
+(about what we _could, should_ or _never_ change).
+
+Software engendering is often about build tools that some community can use.
+How to other disciplines use their tools?
+
+Astronomy builds tools. E.g.
+Astronomers learn how to (e.g.) make lenses.
    But once that is done,
-then they those tools to look through those lens to learn more abut the universe
-   around them.
+then they those lens to peer out into the universe around us.
 
-So the old challenge  of SE was how to build software.
-We got pretty good at that kind of bracket matching and tool building.
-
-But now that we can match the brackets, its time to learn how to make best use of those
-tools. Our next challenge is to use software as a lens to explore the world around us:
+So now that SE can build tools, perhaps
+our next
+challenge is to use software as a lens to explore the world around us:
 
 - with least effort
 - yielding most insight.
 
 But how?
-
-- How can we design technology to help us ask better questions about the world?
+How can we design technology to help us ask better questions about the world?
 
 Well, better [design](design) a means  better exploration of more options.
 [Herbert Simon'96](https://monoskop.org/images/9/9c/Simon_Herbert_A_The_Sciences_of_the_Artificial_3rd_ed.pdf) tells us:
@@ -65,6 +67,23 @@ Simon is adamant about the implications of our choices:
 we offer to them the same chance for adventure, for the pursuit of new and
 interesting designs, that we have had."
 
+Returning to Picasso, as witnessed by his own self-portraits (shown top-right), his methods matured dramatically over this lifetime.
+Picasso felt that we do not see an
+object from one angle or perspective, but rather from many angles
+selected by sight and movement. As a result of this belief, his cubist style [^0]
+became about _how_ to see an object or figure rather than _what_ the
+artist was looking at.
+
+Similarly, I'm suggesting here that we should use automated software engineering not just as  method
+for building things. But also for reviewing more options along the way. If that  seems a little vague to you,
+then I'll repeat using the language of high-church SE theory. Don't worry if you the following paragraph makes no sense
+to you. By the time I'm done with you, you will be surprosed at just how easy is the following.
+
+I advocate for metamorphic testing of requirements models,
+informed by theorem proving, multi-objective optimization, and data mining (specifically, semi-supervised learning).
+In that seaerch, XXX basi. also, extensio tests. what is missing. repoteroty grids
+The computational complexity of this search will be reduced by a cycle of depth-bound stochastic fuzzing and keys (small variabes that control
+the rest).
 
 <br clear=all>
 
