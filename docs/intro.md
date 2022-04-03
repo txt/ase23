@@ -51,18 +51,16 @@ So, can we make technology to help us ask better questions about the world?
 
 ## Answer1: USe AI
 
-Herbert Simon_ design i the quentessial human activity
+Herbert Simon: design is the quintessential human  activity.
 
 Design = navigating a space of constraints in order  to made choices
 
-Allen Newell: _ principle of rationality_
+The principle of rationality: [Newell'81](https://ojs.aaai.org//index.php/aimagazine/article/view/99):
 
-
-> Knwlege is built on top of a lower-level of symbolic routnines.
+> Knowledge is built on top of a lower-level of symbolic routines.
 An agent has a body of knowledge, some goals to achieve and some actions 
-   that it can perform. 
-An agent's behavior is determined by the "principle of rationality": 
-- the agent performs those actions that, on the basis of the knowledge it has, bring it closer to the goals.
+   that it can perform. The _principle of rationality_ is that
+the agent performs those actions that, on the basis of the knowledge it has, bring it closer to the goals.
 
 
 
