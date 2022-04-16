@@ -8,36 +8,18 @@
   <a href="/README.md#top"><img width=600  
      src="/etc/img/ase22.png"></a></p>
   
-
-
-
-
-
-
 # What
-
 
 Using data mining and/or optimizers and/or theorem drovers
 - generate more choices
 - select the ones that satisfy local, and competing, biases
 - empowering more people to have more control over their world
 
-
-Its all about choice
-- Choice and power
-  - and tools to better support those choices
-- Considerations on choice take us to ethics.
-    - how we should decide who does not get stuff. 
-    - problem: those decisions are usually secret
-    - and  in an ethical world, those decisions are debated, challenged, studied before being applied
-
-
 Challenges
 - How to represent choices?
 - How to excise those choices:
 - How to summarize what you found (above information overload)
 - How to find what you didn't know before
-
 
 e.g.
 
@@ -50,12 +32,17 @@ e.g.
 | Assert  contrasts or legal requirements | theorem proving                                                      | Data mining                                     |
 | etc.                                    | etc.                                                                 | etc.                                            |
 
+Its all about choice
+- Choice and power
+  - and tools to better support those choices
+- Considerations on choice take us to ethics.
+    - how we should decide who does not get stuff. 
+    - problem: those decisions are usually secret
+    - and  in an ethical world, those decisions are debated, challenged, studied before being applied
 
 # Why
 
-
 This fall, we take a bet on the future and study what might happen to software engineering _after_ the age of bracket matching is over.
-
 
 Astronomers use lens and junior astronomers have to study all the theory and details about lens in order to build and maintain good lens.
 - but once the lens are built, astronomers look through them to learn more about the universe around us.
@@ -64,9 +51,6 @@ Astronomers use lens and junior astronomers have to study all the theory and det
   - Software mediates everything
   - Down to the pacemakers that control the beating of our heart.
 - So once we've done with bracket matching, what's next? How can/should we use software tools to explore the world around us?
-
-
-
 
 [^picasso]: From [MFA
 Masterworks](https://news.masterworksfineart.com/2018/10/31/pablo-picasso-and-cubism#:~:text=In%20collaboration%20with%20his%20friend,how%20he%20achieved%20this%20goal.):
@@ -80,15 +64,12 @@ selected by sight and movement. As a result of this belief, Cubism
 became about _how_ to see an object or figure rather than _what_ the
 artist was looking at."
 
-
 You design software, you make those choices, are you controlling for  the consequences of those choices?
-
 
 - e.g consider the choices inside a classifier deciding "you need chemotherapy" or "you don't".
 - is it unfair to optimize just for accuracy?
 - "accuracy" = how often you decided right (accroding to some historical log)
 - "fairness" = ratio of false positives for men and women.
-
 
 <img align=right width=600 src="/docs/img/choice.png">
 <small>
@@ -127,26 +108,20 @@ From "Software 2.0"[^hudson]
 By Ian Huston -May 30, 2019. BbTechTalks.
 https://bdtechtalks.com/2019/05/30/ai-software-2-automated-programming/
 
-
 [^karpathy]: Andrej Karpathy, Softare 2.0  https://karpathy.medium.com/software-2-0-a64152b37c35
 
 
 <img src="/docs/img/software2.png">
 
-
 So you are the generation that will build the next evolution in SE tools where much of the design process will be automated.
-
 
 How will you do that? Ethically?
 
-
 e.g. the COMPASS model (who is most like to commit crimes):
-
 
 <p align=center>
 <img src="/docs/img/compass.png" width=600>
 </p>
-
 
 e.g. 
 - The SCRUM model offered by Mendonca et al. [^mend]
@@ -154,15 +129,24 @@ e.g.
   - (e.g., if sprints last two weeks, then each individual task must take less than 10 days of programming). 
   - Complex mode;
     - less than 2% of the 2<sup>128</sup> choices are acceptable to that model. 
-- The  PicoSAT [^pico] SAT solver can find tens of millions of satisfying solutions to the SCRUM model.
+    - 
+
+<img src="/docs/img/spf.png"> 
+
+The PicoSAT [^pico] SAT solver
+- Can find tens of millions of satisfying solutions to the SCRUM model.
 - Now we have a new problem
   - Too many solutions
   - Cognitive overload
-- Andre's Law
-  - Human concerns are a special case
-  - The space of things people care about are in small corner of the space of all things?
-  - E.g. given all
+- Andre's Law[^andre]
+  - Automatic methods will almost certainly  miss human concerns
+  - e.g. in SCRUM models, there 2<sup>128</sup>  choices (about a duodecillion)
+    - and humans usually have an opinion on 20 things (2<sup>20</sup> , about a million)
+      - a tiny fraction of the possible 
+  - his thesis: tools to explore that space, guided by human preference.
 
+[^andre]:   Andre Lustosa, Tim Menzies:
+SNEAK: Faster Interactive Search-based Software Engineering (using Semi-Supervised Learning). CoRR [abs/2110.02922 (2021)](https://arxiv.org/pdf/2110.02922.pdf)
 
 [^mend]: M. Mendonca, M. Branco, and D. Cowan, "Splot: software
 product lines online tools," in Proceedings of the 24th ACM
