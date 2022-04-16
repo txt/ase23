@@ -17,9 +17,18 @@
 
 # The subject: ethical Automated SE
 
+<img align = right width=500 src="https://i.pinimg.com/originals/2c/97/b4/2c97b421c756a19468b58546202160e1.jpg">
 
-Computers are stupid, they only give you answers.   
--- Pablo Picasso
+
+"Computers are useless ...   
+... They can only give you answers."     
+- Pablo Picasso[^0] 
+
+
+How can we reply to Picasso ? How can we assure him that we do not just blindly use software?
+But instead we are using it to look at the world from  multiple perspectives, then build
+models that are nuances combinations of many points of view?
+
 
 
 So your goal:
@@ -42,11 +51,12 @@ you are the most dangerous people in the whole world.
 Software mediates everything
 - down to the pacemakers that control the beating of our heart.
 
-[Software 2.0](https://bdtechtalks.com/2019/05/30/ai-software-2-automated-programming/):
-- The argument made by 2.0 proponents like [Andrej Karpathy](https://karpathy.medium.com/software-2-0-a64152b37c35), director of AI at Tesla, is that we won’t really write code anymore. 
-- We’ll just be finding data and feeding it into machine learning systems. 
-- In this scenario, we can imagine the role of software engineer morphing into “data curator” or “data enabler.” 
-- Whatever we call ourselves, we’ll be people who are no longer writing code.
+From [Software 2.0](https://bdtechtalks.com/2019/05/30/ai-software-2-automated-programming/):
+- "The argument made by 2.0 proponents like [Andrej Karpathy](https://karpathy.medium.com/software-2-0-a64152b37c35), director of
+   AI at Tesla, is that we won’t really write code anymore. "
+- "We’ll just be finding data and feeding it into machine learning systems. "
+- "In this scenario, we can imagine the role of software engineer morphing into 'data curator' or 'data enabler.' "
+- "Whatever we call ourselves, we’ll be people who are no longer writing code."
 
 
 <img src="/docs/img/software2.png">
