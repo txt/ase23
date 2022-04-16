@@ -127,9 +127,9 @@ Given rules of the form _cause_ &rarr; _effect_ then
 | induction | Lots of experience  that _cause_  and _effect_ are seen together | _rule_       | possible                    |
 | abduction | _rule_ + _effect_                                                | _cause_      | not a certain inference (*) |
 
-<img src=/docs/img/logic.png>
+<img src="/docs/img/logic.png">
 
-How to make a mistake, with abduction:
+(*) How to make a mistake, with abduction:
 - Rule1: The sprinkler wets the grass
 - Rule2: The rain wets the grass
 - Effect: The grass is wet
