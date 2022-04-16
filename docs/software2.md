@@ -17,6 +17,29 @@
 
 # The subject: ethical Automated SE
 
+This fall, we take a bet on the future and study what might happen to software engineering _after_ the age of bracket matching is over.
+
+Astronomers use lens and junior astronomers have to study all the theory and details about lens in order to build and maintain good lens.
+- but once the lens are built, astronomers look through them to learn more about the universe around us.
+- In 21<sup>st</sup> century, the "universe around us" is everything that is controlled and mediated by software.
+- Which is quite a lot.
+  - Software mediates everything
+  - Down to the pacemakers that control the beating of our heart.
+- So once we've done with bracket matching, what's next? How can/should we use software tools to explore the world around us?
+
+Our automated tools lets us explore the world better
+- so lets explore it for good.
+- In this class, your goal as automated software engineers
+  - Use your tools to find better options
+
+Using data mining and/or optimizers and/or theorem drovers
+- generate more choices
+- select the ones that satisfy local, and competing, biases
+- empowering more people to have more control over their world
+
+Ethics!
+
+
 |                                              Freeman Dyson                                              |                                          Will Rogers                                          |                                           Pablo Picasso                                            |                                                            Susan Sontag                                                            |
 |:-------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
 |          Technology without morality is barbarous;<br>morality without technology is impotent.          |      It isn't what we don't know that gives us trouble, it's what we know that ain't so.      |                    Computers are stupid... they only give us answers[^picasso].                    |                                 The only interesting answers are those that destroy the questions.                                 |
@@ -36,34 +59,8 @@ selected by sight and movement. As a result of this belief, Cubism
 became about _how_ to see an object or figure rather than _what_ the
 artist was looking at."
 
-
-How can we reply to Picasso ? How can we assure him that we do not just blindly use software?
-But instead we are using it to look at the world from  multiple perspectives, then build
-models that are nuances combinations of many points of view?
-
-Our automated tools lets us explore the world better
-- so lets explore it for good.
-
-<img src="/docs/img/power.jpg" width=300 align=right>
-
-So your goal as automated software engineers
-- Use your tools to find better options
-
-Using data mining and/or optimizers and/or theorem drovers
-- generate more choices
-- select the ones that satisfy local, and competing, biases
-- empowering more people to have more control over their world
-
-Why study this subject? Now (in 2022)? Well, right now:
-- you are the most dangerous people in the whole world. 
-- more dangerous than COVID
-- more threatening to society than Putin, or the Kardashians
-- more powerful than you know.
-
 <br clear=all>
 
-Software mediates everything
-- down to the pacemakers that control the beating of our heart.
 - you design software, you make those choices, are you controlling for  the consequences of those choices?
 
 e.g 
