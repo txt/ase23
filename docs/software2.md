@@ -66,25 +66,6 @@ Astronomers use lens and junior astronomers have to study all the theory and det
 - So once we've done with bracket matching, what's next? How can/should we use software tools to explore the world around us?
 
 
-Our automated tools lets us explore the world better
-- so lets explore it for good.
-- In this class, your goal as automated software engineers
-  - Use your tools to find better options
-
-
-Its all about choice
-- Choice and power
-- and tools to better support those choices
-
-
-|                                     Freeman Dyson                                     |                                                Kimberlé Crenshaw [^crenshaw] [^coaston]                                                 |                        Pablo Picasso                         |                            Susan Sontag                            |
-|:-------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------------:|
-| Technology without morality is barbarous;<br>morality without technology is impotent. | The goal  (....)  should be to facilitate the inclusion of marginalized groups for whom it can be said: "When they enter, we all enter. | Computers are stupid... they only give us answers[^picasso]. | The only interesting answers are those that destroy the questions. |
-| <img height=125 src="https://upload.wikimedia.org/wikipedia/commons/0/03/Freeman_Dyson_%282005%29.jpg"> |                                              <img height=125 src="/docs/img/crenshaw.png">                                              | <img width=500 src="https://i.pinimg.com/originals/2c/97/b4/2c97b421c756a19468b58546202160e1.jpg"> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Susan_Sontag_1979_%C2%A9Lynn_Gilbert_%28headshot%29.jpg" height=125> 
-
-
-(any other good quires to add?)
-
 
 [^coaston]: The intersectionality wars By Jane Coaston, jane.coaston@vox.com. Updated May 28, 2019.  https://www.vox.com/the-highlight/2019/5/20/18542843/intersectionality-conservatism-law-race-gender-discrimination
 
