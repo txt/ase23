@@ -42,16 +42,6 @@ Its all about choice
 
 # Why
 
-This fall, we take a bet on the future and study what might happen to software engineering _after_ the age of bracket matching is over.
-
-Astronomers use lens and junior astronomers have to study all the theory and details about lens in order to build and maintain good lens.
-- but once the lens are built, astronomers look through them to learn more about the universe around us.
-- In 21<sup>st</sup> century, the "universe around us" is everything that is controlled and mediated by software.
-- Which is quite a lot.
-  - Software mediates everything
-  - Down to the pacemakers that control the beating of our heart.
-- So once we've done with bracket matching, what's next? How can/should we use software tools to explore the world around us?
-
 [^picasso]: From [MFA
 Masterworks](https://news.masterworksfineart.com/2018/10/31/pablo-picasso-and-cubism#:~:text=In%20collaboration%20with%20his%20friend,how%20he%20achieved%20this%20goal.):
 "Pablo Picasso pioneered the Cubism movement, a revolutionary style
