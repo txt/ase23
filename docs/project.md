@@ -114,9 +114,6 @@ How do you know if you are ethical?
 
 > A logic to guide guessing about what question to ask next.
 
-(Historical note: this was my Ph.D. thesis, waaaaaaay back in time. None of the following ever really scaled. But lately I've realized that if we 
-use data miners and theorem provers as the engine under the hood, then all these could become practical and reasonable.)
-
 Abduction: inference to the best guess
 
 Given rules of the form _cause_ &rarr; _effect_ then
@@ -174,5 +171,12 @@ Notes:
   - Tutoring: Expiation + planing (where we "plan" to go somewhere the student has not seen before)
 - There is no _best_ bias
   - Just biases that are most useful in different contexts.
+
+Historical note:
+- abduction was my Ph.D. thesis, waaaaaaay back in time. 
+- None of the following ever really scaled. 
+- But lately I've realized that:
+  - If we use data miners and theorem provers as the engine under the hood...
+  - ... Then all these could become practical and reasonable.)
 
 
