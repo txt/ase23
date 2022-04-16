@@ -10,6 +10,11 @@ So your goal:
 - select the ones that satisfy local, and competing, biases
 
 ## Why this project?
+
+Software 2.0
+
+<img src="/docs/img/software2.png">
+
 Ethics = power + choice
 - how we divide resources
 - how we should decide who does not get stuff. 
@@ -34,6 +39,30 @@ e.g. the COMPASS model (who is most like to commit crimes):
 <p align=center>
 <img src="/docs/img/compass.png" width=600>
 </p>
+
+e.g 
+
+<img align=right width=600 src="/docs/img/choice.png">
+<small>
+<pre>
+local my= {
+sames=      512, 
+bins=      .5,
+best=      .5,
+cohen=     .35,
+combine=   "mode",
+far=       .9,
+conf=      .05,
+k=         2,  
+cliffs=    .25,
+loud=      false,
+bootstraps=512,
+p=         2, 
+seed=      10011,
+some=      256,
+wait=      10
+}
+</pre></small>
 
 e.g. 
 - The SCRUM model offered by Mendonca et al. [^mend]
