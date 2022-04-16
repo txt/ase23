@@ -45,14 +45,13 @@ Ethics = power + choice
 |          Technology without morality is barbarous;<br>morality without technology is impotent.          | The goal  (....)  should be to facilitate the inclusion of marginalized groups for whom it can be said: "When they enter, we all enter. |                    Computers are stupid... they only give us answers[^picasso].                    |                                 The only interesting answers are those that destroy the questions.                                 |   |
 | <img height=125 src="https://upload.wikimedia.org/wikipedia/commons/0/03/Freeman_Dyson_%282005%29.jpg"> |                                              <img height=125 src="/docs/img/crenshaw.png">                                              | <img width=500 src="https://i.pinimg.com/originals/2c/97/b4/2c97b421c756a19468b58546202160e1.jpg"> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Susan_Sontag_1979_%C2%A9Lynn_Gilbert_%28headshot%29.jpg" height=125> |   |
 
+(any other good quires to add?)
 
-[^coaston]:
-The intersectionality wars
+[^coaston]: The intersectionality wars
 By Jane Coaston, jane.coaston@vox.com. Updated May 28, 2019.
 https://www.vox.com/the-highlight/2019/5/20/18542843/intersectionality-conservatism-law-race-gender-discrimination
 
-[^cresnhaw]:
-Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.
+[^cresnhaw]: Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.
 Kimberle Crenshaw.
 The University of Chicago Legal Forum 140:139-167 (1989)
 
@@ -68,12 +67,10 @@ selected by sight and movement. As a result of this belief, Cubism
 became about _how_ to see an object or figure rather than _what_ the
 artist was looking at."
 
-<br clear=all>
 
-- you design software, you make those choices, are you controlling for  the consequences of those choices?
+You design software, you make those choices, are you controlling for  the consequences of those choices?
 
-e.g 
-consider the choices inside a classifier deciding "you need chemotherapy" or "you don't".
+- e.g consider the choices inside a classifier deciding "you need chemotherapy" or "you don't".
 - is it unfair to optimize just for accuracy?
 - "accuracy" = how often you decided right (accroding to some historical log)
 - "fairness" = ratio of false positives for men and women.
