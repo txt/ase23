@@ -11,7 +11,7 @@ So your goal:
 
 ## Why this project?
 
-Software 2.0
+]Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35):
 
 <img src="/docs/img/software2.png">
 
@@ -116,13 +116,13 @@ How do you know if you are ethical?
 
 Abduction: inference to the best guess
 
-Given rules of the form _cause_ &rarr; _effect_ then
+Given rules of the form "_cause_ &rarr; _effect_" then
 
-| What      | Given                                                            | Generate     | Comment                     |
-|-----------|------------------------------------------------------------------|--------------|-----------------------------|
-| deduction | _cause_ + _rule_                                                 | _n_ | certain                     |
-| induction | Lots of experience  that _cause_  and _effect_ are seen together | _rule_       | possible                    |
-| abduction | _rule_ + _effect_                                                | _cause_      | not a certain inference (*) |
+| What      | Given                                                         | Generate | Comment                     |
+|-----------|---------------------------------------------------------------|----------|-----------------------------|
+| deduction | _cause_ + _rule_                                              | _effect_ | certain                     |
+| induction | Lots of observations  of (_cause1_,_effect1_), (_cause2_,_effect2_), (_cause3_,_effect3_), (_cause4_,_effect4_)....  | _rule_    | possible          |         |                             |
+| abduction | _rule_ + _effect_ | _cause_ | not a certain inference (*) |
 
 <img src="/docs/img/logic.png">
 
