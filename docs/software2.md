@@ -131,7 +131,7 @@ e.g.
     - less than 2% of the 2<sup>128</sup> choices are acceptable to that model. 
     - 
 
-<img src="/docs/img/spf.png"> 
+<img src="/docs/img/spl.png"> 
 
 The PicoSAT [^pico] SAT solver
 - Can find tens of millions of satisfying solutions to the SCRUM model.
