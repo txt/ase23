@@ -67,11 +67,6 @@ Astronomers use lens and junior astronomers have to study all the theory and det
 
 
 
-[^coaston]: The intersectionality wars By Jane Coaston, jane.coaston@vox.com. Updated May 28, 2019.  https://www.vox.com/the-highlight/2019/5/20/18542843/intersectionality-conservatism-law-race-gender-discrimination
-
-
-[^crenshaw]: Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.  Kimberle Crenshaw.  The University of Chicago Legal Forum 140:139-167 (1989)
-
 
 [^picasso]: From [MFA
 Masterworks](https://news.masterworksfineart.com/2018/10/31/pablo-picasso-and-cubism#:~:text=In%20collaboration%20with%20his%20friend,how%20he%20achieved%20this%20goal.):

@@ -92,6 +92,12 @@ Its all about choice
 
 
 
+[^coaston]: The intersectionality wars By Jane Coaston, jane.coaston@vox.com. Updated May 28, 2019.  https://www.vox.com/the-highlight/2019/5/20/18542843/intersectionality-conservatism-law-race-gender-discrimination
+
+
+[^crenshaw]: Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.  Kimberle Crenshaw.  The University of Chicago Legal Forum 140:139-167 (1989)
+
+
 <hr>
 <h2> gonna b so much FUNNNN !! </h2>
 <img align=right width=400 src="http://se16.unbox.org/.worksite/img/elearning_image1.jpg">
