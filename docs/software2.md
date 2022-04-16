@@ -37,13 +37,13 @@ Using data mining and/or optimizers and/or theorem drovers
 - select the ones that satisfy local, and competing, biases
 - empowering more people to have more control over their world
 
-Ethics!
+Ethics = power + choice
 
 
-|                                              Freeman Dyson                                              |                                          Will Rogers                                          |                                           Pablo Picasso                                            |                                                            Susan Sontag                                                            |
-|:-------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
-|          Technology without morality is barbarous;<br>morality without technology is impotent.          |      It isn't what we don't know that gives us trouble, it's what we know that ain't so.      |                    Computers are stupid... they only give us answers[^picasso].                    |                                 The only interesting answers are those that destroy the questions.                                 |
-| <img height=125 src="https://upload.wikimedia.org/wikipedia/commons/0/03/Freeman_Dyson_%282005%29.jpg"> | <img height=125 src="http://photos.geni.com/p12/58/ea/cb/bd/534448386d96293b/1-06_large.jpg"> | <img width=500 src="https://i.pinimg.com/originals/2c/97/b4/2c97b421c756a19468b58546202160e1.jpg"> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Susan_Sontag_1979_%C2%A9Lynn_Gilbert_%28headshot%29.jpg" height=125> |
+|                    Freeman Dyson                                                         |                     Kimberlé Crenshaw                        |                  Pablo Picasso                                            |                                                            Susan Sontag                                                            |
+|:----------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
+| Technology without morality is barbarous;<br>morality without technology is impotent.      | The goal  (....)  should be to facilitate the inclusion of marginalized groups for whom it can be said: "When they enter, we all enter. |                 Computers are stupid... they only give us answers[^picasso].                  |                 The only interesting answers are those that destroy the questions.                 |                                                                                                                                    |
+|<img height=125 src="https://upload.wikimedia.org/wikipedia/commons/0/03/Freeman_Dyson_%282005%29.jpg">  | <img height=125 src="/docs/img/crenshaw.jpg"> | <img width=500 src="https://i.pinimg.com/originals/2c/97/b4/2c97b421c756a19468b58546202160e1.jpg"> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Susan_Sontag_1979_%C2%A9Lynn_Gilbert_%28headshot%29.jpg" height=125> |
 
 
 
