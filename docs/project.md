@@ -32,7 +32,7 @@ Problems with debating choices:
 e.g. the COMPASS model (who is most like to commit crimes):
 
 <p align=center>
-<img src="img/compass.png" width=600>
+<img src="/docs/img/compass.png" width=600>
 </p>
 
 e.g. 
@@ -79,6 +79,11 @@ How do you know if you are ethical?
 
 # Abduction
 
+| A logic to guide guessing about what question to ask next.
+
+(Historical note: this was my Ph.D. thesis, waaaaaaay back in time. None of the following ever really scaled. But lately I've realized that if we 
+use data miners and theorem provers as the engine under the hood, then all these could become practical and reasonable.)
+
 Abduction: inference to the best guess
 
 Given rules of the form _cause_ &rarr; _effect_ then
@@ -89,14 +94,14 @@ Given rules of the form _cause_ &rarr; _effect_ then
 | induction | Lots of experience  that _cause_  and _effect_ are seen together | _rule_       | possible                    |
 | abduction | _rule_ + _effect_                                                | _cause_      | not a certain inference (*) |
 
-<img src=img/logic.png>
+<img src=/docs/img/logic.png>
 
 How to make a mistake, with abduction:
 - Rule1: The sprinkler wets the grass
 - Rule2: The rain wets the grass
 - Effect: The grass is wet
 - Cause: it rained
-  - Not certain. What about the sprinkler
+  - Not certain. What about the sprinkler?
 
 Abductive inference requires validation
 - It is the logic of guessing what question to ask next.
@@ -132,8 +137,8 @@ Notes:
   - Different biases select different world, suitable for different tasks
   - Planning: favor worlds with least cost of assumptions
   - Classification: favor worlds with largest overlap to known facts
-  - Explanaion: favor the world that most overlaps with beliefs of audience
-  - Tutoring: Explation + plannng (where we "plan" to go somewhere the student has not seen before)
+  - Explanation: favor the world that most overlaps with beliefs of audience
+  - Tutoring: Expiation + planing (where we "plan" to go somewhere the student has not seen before)
 - There is no _best_ bias
   - Just biases that are most useful in different contexts.
 
