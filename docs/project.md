@@ -30,12 +30,12 @@ Problems with debating choices:
 - How to summarize what you Information overload
 
 
-| Modeling method         | Exercise it                          | Summarize it                                    |
-|-------------------------|--------------------------------------|-------------------------------------------------|
-| Build a model           | Simulate (controlled by an optimizer | Data mining                                     |
-| Look at historical data | Data mining                          | Cluster and find contrasts between the clusters |
-| Sketch human intuitions | Theorem proving (find maximal consistent subsets that satisfy most constraints) | [thorem proving](#abduction)) |  
-| Assert properties contrasts or legal requirements | theorem proving  | data mining
+| Modeling method                         | Exercise it                                                          | Summarize it                                    |
+|-----------------------------------------|----------------------------------------------------------------------|-------------------------------------------------|
+| Build a model                           | Simulate (controlled by an optimizer                                 | Data mining                                     |
+| Look at historical data                 | Data mining                                                          | Cluster and find contrasts between the clusters |
+| Sketch human intuitions                 | Theorem proving (find biggest subsets that most satisfy constraints) | [theorem proving](#abduction))                  |
+| Assert  contrasts or legal requirements | theorem proving                                                      | data mining                                     |
 
 e.g. the COMPASS model (who is most like to commit crimes):
 
@@ -44,6 +44,7 @@ e.g. the COMPASS model (who is most like to commit crimes):
 </p>
 
 e.g 
+consider the choices inside a classifier deciding "you need chemotherapy" or "you don't".
 
 <img align=right width=600 src="/docs/img/choice.png">
 <small>
@@ -111,7 +112,7 @@ How do you know if you are ethical?
 
 # Abduction
 
-| A logic to guide guessing about what question to ask next.
+> A logic to guide guessing about what question to ask next.
 
 (Historical note: this was my Ph.D. thesis, waaaaaaay back in time. None of the following ever really scaled. But lately I've realized that if we 
 use data miners and theorem provers as the engine under the hood, then all these could become practical and reasonable.)
