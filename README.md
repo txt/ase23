@@ -78,7 +78,7 @@ TBD
 
 </table>
 
-Our automated tools lets us explore the world better, - so lets explore it for good.  - In this class, your goal as automated software engineers
+Our automated tools lets us explore the world better,  so lets explore it for good.   In this class, your goal as automated software engineers
   use your automated tools to find better options
 
 Its all about choice
