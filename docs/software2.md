@@ -44,6 +44,7 @@ models that are nuances combinations of many points of view?
 Our automated tools lets us explore the world better
 - so lets explore it for good.
 
+<img src="/docs/img/power.jpg" width=300 align=right>
 
 So your goal as automated software engineers
 - Use your tools to find better options
@@ -53,14 +54,13 @@ Using data mining and/or optimizers and/or theorem drovers
 - select the ones that satisfy local, and competing, biases
 - empowering more people to have more control over their world
 
-<img src="/docs/img/power.jpg" width=300 align=right>
-
 Why study this subject? Now (in 2022)? Well, right now:
 - you are the most dangerous people in the whole world. 
 - more dangerous than COVID
 - more threatening to society than Putin, or the Kardashians
 - more powerful than you know.
 
+<br clear=all>
 Software mediates everything
 - down to the pacemakers that control the beating of our heart.
 - you design software, you make those choices, are you aware of the consequences of those choices?
