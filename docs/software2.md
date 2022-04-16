@@ -108,8 +108,7 @@ From "Software 2.0"[^hudson]
 By Ian Huston -May 30, 2019. BbTechTalks.
 https://bdtechtalks.com/2019/05/30/ai-software-2-automated-programming/
 
-[^karpathy]:
-Andrej Karpathy, Softare 2.0  https://karpathy.medium.com/software-2-0-a64152b37c35
+[^karpathy]: Andrej Karpathy, Softare 2.0  https://karpathy.medium.com/software-2-0-a64152b37c35
 
 <img src="/docs/img/software2.png">
 
@@ -270,8 +269,7 @@ Notes:
 - There is no _best_ bias
   - Just biases that are most useful in different contexts.
 
-[^bylander]:
-Tom Bylander, Dean Allemang, Michael C. Tanner, John R. Josephson,
+[^bylander]: Tom Bylander, Dean Allemang, Michael C. Tanner, John R. Josephson,
 The computational complexity of abduction,
 Artificial Intelligence,
 Volume 49, Issues 1–3,
