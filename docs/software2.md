@@ -15,7 +15,7 @@
 
 
 
-# Project: Ethical Automated SE
+# The subject: ethical Automated SE
 
 
 Computers are stupid, they only give you answers.   
@@ -26,10 +26,21 @@ So your goal:
 - using data mining and/or optimizers and/or theorem drovers
 - generate more choices
 - select the ones that satisfy local, and competing, biases
+- empowering more people to have more control over their world
 
+Our automated tools lets us explore the world better
+- so lets explore it for good.
 
-## Why this project?
+<img src="/docs/img/power.jpg" width=400 align=right>
 
+Why study this subject? Well, right now,
+you are the most dangerous people in the whole world. 
+- more dangerous than COVID
+- more threatening to the social order than the Kardashians
+- more powerful than you know.
+
+Software mediates everything
+- down to the pacemakers that control the beating of our heart.
 
 [Software 2.0](https://bdtechtalks.com/2019/05/30/ai-software-2-automated-programming/):
 - The argument made by 2.0 proponents like [Andrej Karpathy](https://karpathy.medium.com/software-2-0-a64152b37c35), director of AI at Tesla, is that we won’t really write code anymore. 
