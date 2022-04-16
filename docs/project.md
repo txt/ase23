@@ -11,12 +11,17 @@ So your goal:
 
 ## Why this project?
 
-]Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35):
+[Software 2.0](https://bdtechtalks.com/2019/05/30/ai-software-2-automated-programming/):
+- The argument made by 2.0 proponents like [Andrej Karpathy]https://karpathy.medium.com/software-2-0-a64152b37c35), director of AI at Tesla, is that we won’t really write code anymore. 
+- We’ll just be finding data and feeding it into machine learning systems. 
+- In this scenario, we can imagine the role of software engineer morphing into “data curator” or “data enabler.” 
+- Whatever we call ourselves, we’ll be people who are no longer writing code.
 
 <img src="/docs/img/software2.png">
 
 I want software 4.0 
 - people * (Software 2.0)
+- ethics + software 2.0
 
 Ethics = power + choice
 - how we divide resources
