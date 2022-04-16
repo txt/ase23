@@ -14,7 +14,13 @@
 
 
 
-## Pipes
+## Before reading..
+
+
+Before reading this material, review [these slides](https://swcarpentry.github.io/shell-novice/04-pipefilter/index.html)
+
+
+## History
 
 
 Doug McIlroy, Bell Labs’ “Computing Techniques
