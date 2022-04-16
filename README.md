@@ -78,16 +78,12 @@ TBD
 
 </table>
 
-Our automated tools lets us explore the world better
-- so lets explore it for good.
-- In this class, your goal as automated software engineers
-  - Use your tools to find better options
-
+Our automated tools lets us explore the world better, - so lets explore it for good.  - In this class, your goal as automated software engineers
+  use your automated tools to find better options
 
 Its all about choice
 - Choice and power
 - and tools to better support those choices
-
 
 |                                     Freeman Dyson                                     |                                                Kimberlé Crenshaw [^crenshaw] [^coaston]                                                 |                        Pablo Picasso                         |                            Susan Sontag                            |
 |:-------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------------:|
