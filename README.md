@@ -7,7 +7,6 @@
 <a href="/LICENSE.md#top">&copy;&nbsp;2022</a><br>
 <a href="/README.md#top"><img width=600  
    src="/etc/img/ase22.png"></a></p>
-   <p align=center>
 
 
 

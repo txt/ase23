@@ -7,25 +7,30 @@
   <a href="/LICENSE.md#top">&copy;&nbsp;2022</a><br>
   <a href="/README.md#top"><img width=600  
      src="/etc/img/ase22.png"></a></p>
-     <p align=center>
   
 
 
+
+
+
+
 # What
+
 
 Using data mining and/or optimizers and/or theorem drovers
 - generate more choices
 - select the ones that satisfy local, and competing, biases
 - empowering more people to have more control over their world
 
+
 Its all about choice
 - Choice and power
-- and tools to better support those choices
-- And Choice takes us to ethics
-  - how we divide resources
-  - how we should decide who does not get stuff. 
-    - problem, those decisions are usually secret
-    - and  in an ethical world, those decisions are debated before being applied
+  - and tools to better support those choices
+- Considerations on choice take us to ethics.
+    - how we should decide who does not get stuff. 
+    - problem: those decisions are usually secret
+    - and  in an ethical world, those decisions are debated, challenged, studied before being applied
+
 
 Challenges
 - How to represent choices?
@@ -34,20 +39,23 @@ Challenges
 - How to find what you didn't know before
 
 
+e.g.
+
+
 | Modeling method                         | Exercise it                                                          | Summarize it                                    |
 |-----------------------------------------|----------------------------------------------------------------------|-------------------------------------------------|
 | Build a model                           | Simulate (controlled by an optimizer                                 | Data mining                                     |
 | Look at historical data                 | Data mining                                                          | Cluster and find contrasts between the clusters |
-| Sketch human intuitions                 | Theorem proving (find biggest subsets that most satisfy constraints) | [theorem proving](#abduction)                  |
+| Sketch human intuitions                 | Theorem proving (find biggest subsets that most satisfy constraints) | [theorem proving](#abduction)                   |
 | Assert  contrasts or legal requirements | theorem proving                                                      | Data mining                                     |
-
-
-
+| etc.                                    | etc.                                                                 | etc.                                            |
 
 
 # Why
 
+
 This fall, we take a bet on the future and study what might happen to software engineering _after_ the age of bracket matching is over.
+
 
 Astronomers use lens and junior astronomers have to study all the theory and details about lens in order to build and maintain good lens.
 - but once the lens are built, astronomers look through them to learn more about the universe around us.
@@ -57,10 +65,12 @@ Astronomers use lens and junior astronomers have to study all the theory and det
   - Down to the pacemakers that control the beating of our heart.
 - So once we've done with bracket matching, what's next? How can/should we use software tools to explore the world around us?
 
+
 Our automated tools lets us explore the world better
 - so lets explore it for good.
 - In this class, your goal as automated software engineers
   - Use your tools to find better options
+
 
 Its all about choice
 - Choice and power
@@ -72,11 +82,15 @@ Its all about choice
 | Technology without morality is barbarous;<br>morality without technology is impotent. | The goal  (....)  should be to facilitate the inclusion of marginalized groups for whom it can be said: "When they enter, we all enter. | Computers are stupid... they only give us answers[^picasso]. | The only interesting answers are those that destroy the questions. |
 | <img height=125 src="https://upload.wikimedia.org/wikipedia/commons/0/03/Freeman_Dyson_%282005%29.jpg"> |                                              <img height=125 src="/docs/img/crenshaw.png">                                              | <img width=500 src="https://i.pinimg.com/originals/2c/97/b4/2c97b421c756a19468b58546202160e1.jpg"> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Susan_Sontag_1979_%C2%A9Lynn_Gilbert_%28headshot%29.jpg" height=125> 
 
+
 (any other good quires to add?)
+
 
 [^coaston]: The intersectionality wars By Jane Coaston, jane.coaston@vox.com. Updated May 28, 2019.  https://www.vox.com/the-highlight/2019/5/20/18542843/intersectionality-conservatism-law-race-gender-discrimination
 
+
 [^crenshaw]: Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.  Kimberle Crenshaw.  The University of Chicago Legal Forum 140:139-167 (1989)
+
 
 [^picasso]: From [MFA
 Masterworks](https://news.masterworksfineart.com/2018/10/31/pablo-picasso-and-cubism#:~:text=In%20collaboration%20with%20his%20friend,how%20he%20achieved%20this%20goal.):
@@ -92,6 +106,7 @@ artist was looking at."
 
 
 You design software, you make those choices, are you controlling for  the consequences of those choices?
+
 
 - e.g consider the choices inside a classifier deciding "you need chemotherapy" or "you don't".
 - is it unfair to optimize just for accuracy?
@@ -131,16 +146,20 @@ From "Software 2.0"[^hudson]
 - "In this scenario, we can imagine the role of software engineer morphing into 'data curator' or 'data enabler.' "
 - "Whatever we call ourselves, we’ll be people who are no longer writing code."
 
+
 [^hundson]: How AI and Software 2.0 will change the role of programmers
 By Ian Huston -May 30, 2019. BbTechTalks.
 https://bdtechtalks.com/2019/05/30/ai-software-2-automated-programming/
 
+
 [^karpathy]: Andrej Karpathy, Softare 2.0  https://karpathy.medium.com/software-2-0-a64152b37c35
+
 
 <img src="/docs/img/software2.png">
 
 
 So you are the generation that will build the next evolution in SE tools where much of the design process will be automated.
+
 
 How will you do that? Ethically?
 
@@ -151,7 +170,6 @@ e.g. the COMPASS model (who is most like to commit crimes):
 <p align=center>
 <img src="/docs/img/compass.png" width=600>
 </p>
-
 
 
 e.g. 
@@ -210,7 +228,10 @@ How do you know if you are ethical?
 > The logic of guessing.
 
 
-Abduction: inference to the best guess
+Abduction: inference to the best guess.
+
+
+I say: abduction is the unifying principle underneath data mining, optimization and theorem proving.
 
 
 Given rules of the form "_cause_ &rarr; _effect_" then
@@ -276,6 +297,7 @@ Notes:
 - There is no _best_ bias
   - Just biases that are most useful in different contexts.
 
+
 [^bylander]: Tom Bylander, Dean Allemang, Michael C. Tanner, John R. Josephson,
 The computational complexity of abduction,
 Artificial Intelligence,
@@ -294,6 +316,7 @@ Historical note:
   - If we use data miners and theorem provers as the engine under the hood...
   - ... Then all these could become practical and reasonable.)
 
+
 [^me96]: Tim Menzies,
 Applications of abduction: knowledge-level modelling,
 International Journal of Human-Computer Studies,
@@ -303,3 +326,5 @@ Pages 305-335,
 ISSN 1071-5819,
 https://doi.org/10.1006/ijhc.1996.0054.
 (https://www.sciencedirect.com/science/article/pii/S1071581996900543)
+
+
