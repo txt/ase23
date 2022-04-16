@@ -41,43 +41,79 @@ How can we reply to Picasso ? How can we assure him that we do not just blindly 
 But instead we are using it to look at the world from  multiple perspectives, then build
 models that are nuances combinations of many points of view?
 
+Our automated tools lets us explore the world better
+- so lets explore it for good.
 
 
-So your goal:
-- using data mining and/or optimizers and/or theorem drovers
+So your goal as automated software engineers
+- Use your tools to find better options
+
+Using data mining and/or optimizers and/or theorem drovers
 - generate more choices
 - select the ones that satisfy local, and competing, biases
 - empowering more people to have more control over their world
 
-Our automated tools lets us explore the world better
-- so lets explore it for good.
+<img src="/docs/img/power.jpg" width=300 align=right>
 
-<img src="/docs/img/power.jpg" width=400 align=right>
-
-Why study this subject? Well, right now,
-you are the most dangerous people in the whole world. 
+Why study this subject? Now (in 2022)? Well, right now:
+- you are the most dangerous people in the whole world. 
 - more dangerous than COVID
-- more threatening to the social order than the Kardashians
+- more threatening to society than Putin, or the Kardashians
 - more powerful than you know.
 
 Software mediates everything
 - down to the pacemakers that control the beating of our heart.
+- you design software, you make those choices, are you aware of the consequences of those choices?
 
-From [Software 2.0](https://bdtechtalks.com/2019/05/30/ai-software-2-automated-programming/):
-- "The argument made by 2.0 proponents like [Andrej Karpathy](https://karpathy.medium.com/software-2-0-a64152b37c35), director of
+e.g 
+consider the choices inside a classifier deciding "you need chemotherapy" or "you don't".
+
+
+<img align=right width=600 src="/docs/img/choice.png">
+<small>
+<pre>
+local my= {
+sames=      512, 
+bins=      .5,
+best=      .5,
+cohen=     .35,
+combine=   "mode",
+far=       .9,
+conf=      .05,
+k=         2,  
+cliffs=    .25,
+loud=      false,
+bootstraps=512,
+p=         2, 
+seed=      10011,
+some=      256,
+wait=      10
+}
+</pre></small>
+
+
+This is important to study since, right now, many people are arguing that the right thing to do
+is to automate than choice process.
+From "Software 2.0"[^hudson]
+- "The argument made by 2.0 proponents like Andrej Karpathy[^karpathy] director of
    AI at Tesla, is that we won’t really write code anymore. "
 - "We’ll just be finding data and feeding it into machine learning systems. "
 - "In this scenario, we can imagine the role of software engineer morphing into 'data curator' or 'data enabler.' "
 - "Whatever we call ourselves, we’ll be people who are no longer writing code."
 
+[^hundson]: How AI and Software 2.0 will change the role of programmers
+By Ian Huston -May 30, 2019. BbTechTalks.
+https://bdtechtalks.com/2019/05/30/ai-software-2-automated-programming/
+
+[^karpathy]:
+Andrej Karpathy, Softare 2.0  https://karpathy.medium.com/software-2-0-a64152b37c35
 
 <img src="/docs/img/software2.png">
 
 
-I want software 4.0 
-- people * (Software 2.0)
-- ethics + software 2.0
+So you are the generation that will build the next evolution in SE tools where much of the design process will be automated.
 
+How will you do that? Ethically?
 
 Ethics = power + choice
 - how we divide resources
@@ -108,32 +144,6 @@ e.g. the COMPASS model (who is most like to commit crimes):
 </p>
 
 
-e.g 
-consider the choices inside a classifier deciding "you need chemotherapy" or "you don't".
-
-
-<img align=right width=600 src="/docs/img/choice.png">
-<small>
-<pre>
-local my= {
-sames=      512, 
-bins=      .5,
-best=      .5,
-cohen=     .35,
-combine=   "mode",
-far=       .9,
-conf=      .05,
-k=         2,  
-cliffs=    .25,
-loud=      false,
-bootstraps=512,
-p=         2, 
-seed=      10011,
-some=      256,
-wait=      10
-}
-</pre></small>
-
 
 e.g. 
 - The SCRUM model offered by Mendonca et al. [^mend]
@@ -145,6 +155,10 @@ e.g.
 - Now we have a new problem
   - Too many solutions
   - Cognitive overload
+- Andre's Law
+  - Human concerns are a special case
+  - The space of things people care about are in small corner of the space of all things?
+  - E.g. given all
 
 
 [^mend]: M. Mendonca, M. Branco, and D. Cowan, "Splot: software
@@ -238,7 +252,7 @@ So:
 
 
 Notes:
-- Slow (all those subsets). In fact, formally this is [NP-hard](https://www.sciencedirect.com/science/article/abs/pii/0004370291900055?via%3Dihub)
+- Slow (all those subsets). In fact, formally this is NP-hard[^bylander]
 - Many solutions (all those subsets)
 - Some solutions contradict other solutions
   - So usually group solutions into consistent "worlds of belief"
@@ -253,6 +267,17 @@ Notes:
 - There is no _best_ bias
   - Just biases that are most useful in different contexts.
 
+[^bylander]:
+Tom Bylander, Dean Allemang, Michael C. Tanner, John R. Josephson,
+The computational complexity of abduction,
+Artificial Intelligence,
+Volume 49, Issues 1–3,
+1991,
+Pages 25-60,
+ISSN 0004-3702,
+https://doi.org/10.1016/0004-3702(91)90005-5.
+(https://www.sciencedirect.com/science/article/pii/0004370291900055)
+
 
 Historical note:
 - abduction was my [Ph.D. thesis](https://menzies.us/pdf/96abkl.pdf), waaaaaaay back in time. 
@@ -261,4 +286,12 @@ Historical note:
   - If we use data miners and theorem provers as the engine under the hood...
   - ... Then all these could become practical and reasonable.)
 
-
+[^me96]: Tim Menzies,
+Applications of abduction: knowledge-level modelling,
+International Journal of Human-Computer Studies,
+Volume 45, Issue 3,
+1996,
+Pages 305-335,
+ISSN 1071-5819,
+https://doi.org/10.1006/ijhc.1996.0054.
+(https://www.sciencedirect.com/science/article/pii/S1071581996900543)
