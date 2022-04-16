@@ -12,7 +12,7 @@ So your goal:
 ## Why this project?
 
 [Software 2.0](https://bdtechtalks.com/2019/05/30/ai-software-2-automated-programming/):
-- The argument made by 2.0 proponents like [Andrej Karpathy]https://karpathy.medium.com/software-2-0-a64152b37c35), director of AI at Tesla, is that we won’t really write code anymore. 
+- The argument made by 2.0 proponents like [Andrej Karpathy](https://karpathy.medium.com/software-2-0-a64152b37c35), director of AI at Tesla, is that we won’t really write code anymore. 
 - We’ll just be finding data and feeding it into machine learning systems. 
 - In this scenario, we can imagine the role of software engineer morphing into “data curator” or “data enabler.” 
 - Whatever we call ourselves, we’ll be people who are no longer writing code.
@@ -160,7 +160,7 @@ So:
 - _&not; (T’ &cup; A’ &rarr; nogood)_  
 
 Notes:
-- Slow (all those subsets). In fact, formally this is [NP-hard](https://doi.org/10.1016/0004-3702(91)90005-5)
+- Slow (all those subsets). In fact, formally this is [NP-hard](https://www.sciencedirect.com/science/article/abs/pii/0004370291900055?via%3Dihub)
 - Many solutions (all those subsets)
 - Some solutions contradict other solutions
   - So usually group solutions into consistent "worlds of belief"
@@ -176,7 +176,7 @@ Notes:
   - Just biases that are most useful in different contexts.
 
 Historical note:
-- abduction was my Ph.D. thesis, waaaaaaay back in time. 
+- abduction was my [Ph.D. thesis](https://menzies.us/pdf/96abkl.pdf), waaaaaaay back in time. 
 - None of the following ever really scaled. 
 - But lately I've realized that:
   - If we use data miners and theorem provers as the engine under the hood...
