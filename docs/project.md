@@ -112,7 +112,7 @@ How do you know if you are ethical?
 
 # Abduction
 
-> A logic to guide guessing about what question to ask next.
+> The logic of guessing.
 
 Abduction: inference to the best guess
 
