@@ -142,7 +142,7 @@ Abductive inference requires validation
 Given:
 - a theory _T_
 - with goals _G_
-- and some _nogood_ constraint predictors,
+- and some _nogood_ constraint predictors (that we want to avoid).
 
 Find:
 - assumptions _A_ 
