@@ -15,6 +15,9 @@ Software 2.0
 
 <img src="/docs/img/software2.png">
 
+I want software 4.0 
+- people * (Software 2.0)
+
 Ethics = power + choice
 - how we divide resources
 - how we should decide who does not get stuff. 
