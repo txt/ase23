@@ -17,7 +17,10 @@
 
 # The subject: ethical Automated SE
 
-<img align = right width=500 src="https://i.pinimg.com/originals/2c/97/b4/2c97b421c756a19468b58546202160e1.jpg">
+|                                              Freeman Dyson                                              |                                          Will Rogers                                          |                                                                                       Pablo Picasso |                                                            Susan Sontag                                                            |
+|:-------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
+|          Technology without morality is barbarous;<br>morality without technology is impotent.          |      It isn't what we don't know that gives us trouble, it's what we know that ain't so.      |                 It isn't what we don't know that gives us trouble, it's what we know that ain't so. |                                 The only interesting answers are those that destroy the questions.                                 |
+| <img height=200 src="https://upload.wikimedia.org/wikipedia/commons/0/03/Freeman_Dyson_%282005%29.jpg"> | <img height=200 src="http://photos.geni.com/p12/58/ea/cb/bd/534448386d96293b/1-06_large.jpg"> | <img height=200 src="https://i.pinimg.com/originals/2c/97/b4/2c97b421c756a19468b58546202160e1.jpg"> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Susan_Sontag_1979_%C2%A9Lynn_Gilbert_%28headshot%29.jpg" height=200> |
 
 
 "Computers are useless ...   
@@ -68,6 +71,9 @@ Software mediates everything
 
 e.g 
 consider the choices inside a classifier deciding "you need chemotherapy" or "you don't".
+- is it unfair to optimize just for accuracy?
+- "accuracy" = how often you decided right (accroding to some historical log)
+- "fairness" = ratio of false positives for men and women.
 
 
 <img align=right width=600 src="/docs/img/choice.png">
@@ -133,8 +139,8 @@ Problems with debating choices:
 |-----------------------------------------|----------------------------------------------------------------------|-------------------------------------------------|
 | Build a model                           | Simulate (controlled by an optimizer                                 | Data mining                                     |
 | Look at historical data                 | Data mining                                                          | Cluster and find contrasts between the clusters |
-| Sketch human intuitions                 | Theorem proving (find biggest subsets that most satisfy constraints) | [theorem proving](#abduction))                  |
-| Assert  contrasts or legal requirements | theorem proving                                                      | data mining                                     |
+| Sketch human intuitions                 | Theorem proving (find biggest subsets that most satisfy constraints) | [theorem proving](#abduction)                  |
+| Assert  contrasts or legal requirements | theorem proving                                                      | Data mining                                     |
 
 
 e.g. the COMPASS model (who is most like to commit crimes):
