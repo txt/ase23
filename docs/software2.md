@@ -51,7 +51,7 @@ The intersectionality wars
 By Jane Coaston, jane.coaston@vox.com. Updated May 28, 2019.
 https://www.vox.com/the-highlight/2019/5/20/18542843/intersectionality-conservatism-law-race-gender-discrimination
 
-[^creshaw]:
+[^cresnhaw]:
 Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.
 Kimberle Crenshaw.
 The University of Chicago Legal Forum 140:139-167 (1989)
