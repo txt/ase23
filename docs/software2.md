@@ -10,7 +10,7 @@
   
 # What
 
-Using data mining and/or optimizers and/or theorem drovers
+Using data mining and/or optimizers and/or theorem provers
 - generate more choices
 - select the ones that satisfy local, and competing, biases
 - empowering more people to have more control over their world
