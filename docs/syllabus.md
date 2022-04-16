@@ -8,7 +8,6 @@
   <a href="/README.md#top"><img width=600  
      src="/etc/img/ase22.png"></a></p>
      <p align=center>
-  :triangular_flag_on_post: While DevOps strives to automated everything, automated software engineering strives to <b>automate automation</b>. <p>
   
 
 

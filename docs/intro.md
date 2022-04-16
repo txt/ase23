@@ -8,7 +8,6 @@
   <a href="/README.md#top"><img width=600  
      src="/etc/img/ase22.png"></a></p>
      <p align=center>
-  :triangular_flag_on_post: While DevOps strives to automated everything, automated software engineering strives to <b>automate automation</b>. <p>
   
 
 
@@ -26,29 +25,37 @@
 ... They can only give you answers."     
 - Pablo Picasso[^0] 
 
+
 How can we reply to Picasso ? How can we assure him that we do not just blindly use software?
 But instead we are using it to look at the world from  multiple perspectives, then build
 models that are nuances combinations of many points of view?
 
+
 Well, software engendering is often about build tools that some community can use.
 How to other disciplines use their tools?
+
 
 Astronomy builds tools. E.g.
 Astronomers learn how to (e.g.) make lenses.
    But once that is done,
 then they those lens to peer out into the universe around us.
 
+
 So now that SE can build tools, perhaps
 our next
 challenge is to use software as a lens to explore the world around us:
 
+
 - with least effort
 - yielding most insight.
+
 
 But how?
 How can we design technology to help us ask better questions about the world?
 
+
 <img align=right src="/docs/img/simon.jpg" width=400>
+
 
 Now, better [design](design) a means  better exploration of more options.
 [Herbert Simon'96](https://monoskop.org/images/9/9c/Simon_Herbert_A_The_Sciences_of_the_Artificial_3rd_ed.pdf) tells us:
@@ -62,11 +69,14 @@ simply to _keep open the options for the future_ or
 perhaps even to **broaden them** a bit by creating
 new variety and new niches."
 
+
 Simon is adamant about the implications of our choices:
+
 
 > "Our grandchildren cannot ask more of us than that
 we offer to them the same chance for adventure, for the pursuit of new and
 interesting designs, that we have had."
+
 
 Returning to Picasso, as witnessed by his own self-portraits (shown top-right), his methods matured dramatically over this lifetime.
 Picasso felt that we do not see an
@@ -75,7 +85,9 @@ selected by sight and movement. As a result of this belief, his cubist style [^0
 became about _how_ to see an object or figure rather than _what_ the
 artist was looking at.
 
+
 <img align=right width=150 src="https://artofquotation.files.wordpress.com/2019/05/b5b5518c-606c-4eb0-aa2b-090d6dcf5ac0.jpeg?w=816">
+
 
 Similarly, I'm suggesting here that we should change automated software engineering such that it reflects more
 on _how_ it builds models.
@@ -84,15 +96,18 @@ Not just just build things and change things. Susan Sontag once said
 
 > "The only interesting answers are those that destroy the questions."
 
+
 But also for reviewing more options along the way. If that  seems a little vague to you,
 then I'll repeat using the language of high-church SE theory. Don't worry if you the following paragraph makes no sense
 to you. By the time I'm done with you, you will be surprosed at just how easy is the following.
+
 
 I advocate for metamorphic testing of requirements models,
 informed by theorem proving, multi-objective optimization, and data mining (specifically, semi-supervised learning).
 In that seaerch, XXX basi. also, extensio tests. what is missing. repoteroty grids
 The computational complexity of this search will be reduced by a cycle of depth-bound stochastic fuzzing and keys (small variabes that control
 the rest).
+
 
 <br clear=all>
 
@@ -105,7 +120,9 @@ Tell me a few tricks about
 data miners, optimizers, and theorem provers
 which  I can add to my resume."
 
+
 To which I say: Why not both?
+
 
 - Data miners, optimizers, theorem provers are algorithms.
 - Algorithms make choices. Choices have consequences. Don't you know how to control those consequences?
@@ -117,6 +134,7 @@ classifier
 is about "who gets selected for  months of body-destroying chemotherapy and its associated nausea and wretchedness?".
 Which choice would you want? And if we just optimized for accuracy, would we find that choice?
 
+
 - Each blue dot is a classifier configured
 at [random](random) from those space of options. 
 - The x-axis show how many classifications were correct. 
@@ -124,18 +142,21 @@ at [random](random) from those space of options.
 of false alarms for men and women in this data. 
 
 
-
 <img align=center src="/docs/img/nn.png" width=800>
 
 
 ## Answer1: Who Cares? This is not my problem
 
+
 Exploring questions like "what leads to false alarms for women" is not a question for engineers.  That is someone else's
 problem.
 
+
 - Maybe not. [Nobel'77(xxxx
 
+
 ## Answer2: Time to act! The house is on fire!
+
 
 This is absolutely everybody's  problem. All hands on deck. 
 There is some bad sh*t going down.
@@ -163,7 +184,9 @@ becomes “He is an engineer, She is a nurse” [27].
 
 ## Answer3: "We" (i.e. engineers) can never solve this
 
+
 Wrong to confuse social problems with technical problems.
+
 
 According to [Noble'77](https://www.google.com/books/edition/America_by_Design/LBYlAV6VmpwC?hl=en&gbpv=0),
 t'was ever so.
@@ -177,9 +200,12 @@ society that selects and deploys them [^2]
 
 <img align=left width=150 src="/docs/img/otherhand.jpeg">
 
+
 We (engineers) caused the problem. We are responsible. We need to take action. 
 
+
 <br clear=all>
+
 
 > "Technical decisions end up shaping the choices we make about how to present ourselves, 
 which in turn shapes how we view ourselves and other people."...   

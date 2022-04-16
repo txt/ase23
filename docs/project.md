@@ -1,15 +1,35 @@
+  <a name=top><br>
+  <p align=center>&nbsp;<a href="/README.md#top">home</a> ::
+  <a href="/docs/syllabus.md#top">syllabus</a> ::
+  <a href="https://drive.google.com/drive/folders/1ZFn6H8-4kx5uP34bpFgIFonkz9Tw3nYM?usp=sharing">groups</a> ::
+  <a href="https://moodle-courses2021.wolfware.ncsu.edu/course/view.php?id=3873">moodle</a> ::
+  <a href="http://ase22.slack.com">chat</a>  ::
+  <a href="/LICENSE.md#top">&copy;&nbsp;2022</a><br>
+  <a href="/README.md#top"><img width=600  
+     src="/etc/img/ase22.png"></a></p>
+     <p align=center>
+  
+
+
+
+
+
 
 # Project: Ethical Automated SE
 
+
 Computers are stupid, they only give you answers.   
 -- Pablo Picasso
+
 
 So your goal:
 - using data mining and/or optimizers and/or theorem drovers
 - generate more choices
 - select the ones that satisfy local, and competing, biases
 
+
 ## Why this project?
+
 
 [Software 2.0](https://bdtechtalks.com/2019/05/30/ai-software-2-automated-programming/):
 - The argument made by 2.0 proponents like [Andrej Karpathy](https://karpathy.medium.com/software-2-0-a64152b37c35), director of AI at Tesla, is that we won’t really write code anymore. 
@@ -17,17 +37,21 @@ So your goal:
 - In this scenario, we can imagine the role of software engineer morphing into “data curator” or “data enabler.” 
 - Whatever we call ourselves, we’ll be people who are no longer writing code.
 
+
 <img src="/docs/img/software2.png">
+
 
 I want software 4.0 
 - people * (Software 2.0)
 - ethics + software 2.0
+
 
 Ethics = power + choice
 - how we divide resources
 - how we should decide who does not get stuff. 
   - problem, those decisions are usually secret
   - and  in an ethical world, those decisions are debated before being applied
+
 
 Problems with debating choices:
 - How to represent them?
@@ -42,14 +66,18 @@ Problems with debating choices:
 | Sketch human intuitions                 | Theorem proving (find biggest subsets that most satisfy constraints) | [theorem proving](#abduction))                  |
 | Assert  contrasts or legal requirements | theorem proving                                                      | data mining                                     |
 
+
 e.g. the COMPASS model (who is most like to commit crimes):
+
 
 <p align=center>
 <img src="/docs/img/compass.png" width=600>
 </p>
 
+
 e.g 
 consider the choices inside a classifier deciding "you need chemotherapy" or "you don't".
+
 
 <img align=right width=600 src="/docs/img/choice.png">
 <small>
@@ -73,6 +101,7 @@ wait=      10
 }
 </pre></small>
 
+
 e.g. 
 - The SCRUM model offered by Mendonca et al. [^mend]
   - 128 project management options and nearly 300 constraints
@@ -90,8 +119,10 @@ product lines online tools," in Proceedings of the 24th ACM
 SIGPLAN conference companion on Object oriented programming
 systems languages and applications, 2009, pp. 761–762.
 
+
 [^pico]: A. Biere, "Picosat essentials," Journal on Satisfiability, Boolean
 Modeling and Computation, vol. 4, no. 2-4, pp. 75–97, 2008.
+
 
 Ethical decision making
 - explore more choices, for more people, explores more bias
@@ -110,24 +141,31 @@ Ethical decision making
 - Biases need to be explict, debated, traded-off
   - you scratch my back, I'll scratch yours
 
+
 How do you know if you are ethical?
 - can you recognize who might be harmed by this design?
   - are you talking to those people?
 - are you changing your designs to empower more people?
 
+
 # Abduction
+
 
 > The logic of guessing.
 
+
 Abduction: inference to the best guess
 
+
 Given rules of the form "_cause_ &rarr; _effect_" then
+
 
 | What      | Given                                                                                                               | Generate |                                     | Comment                     |
 |-----------|---------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------|-----------------------------|
 | deduction | _cause_ + _rule_                                                                                                    | _effect_ | <img src="/docs/img/deduction.png"> | certain                     |
 | induction | Lots of observations  of (_cause1_,_effect1_), (_cause2_,_effect2_), (_cause3_,_effect3_), (_cause4_,_effect4_).... | _rule_   | <img src="/docs/img/induction.png"> | possible                    |
 | abduction | _rule_ + _effect_                                                                                                   | _cause_  | <img src="/docs/img/abduction.png"> | not a certain inference (*) |
+
 
 (*) How to make a mistake, with abduction:
 - Rule1: The sprinkler wets the grass
@@ -136,28 +174,35 @@ Given rules of the form "_cause_ &rarr; _effect_" then
 - Cause: it rained
   - Not certain. What about the sprinkler?
 
+
 Abductive inference requires validation
 - It is the logic of guessing what question to ask next.
+
 
 Given:
 - a theory _T_
 - with goals _G_
 - and some _nogood_ constraint predictors (that we want to avoid).
 
+
 Find:
 - assumptions _A_ 
 - that achieve the most goals you can
 - fewest mistables. 
 
+
 In practice only subset of _T_ is usable and only some subset of _G_ is achievable:
+
 
 - T’ &sube; T
 - G’  &sube; G   
    
 So:
 
+
 - _T’ &cup; A’ &rarr; G'_
 - _&not; (T’ &cup; A’ &rarr; nogood)_  
+
 
 Notes:
 - Slow (all those subsets). In fact, formally this is [NP-hard](https://www.sciencedirect.com/science/article/abs/pii/0004370291900055?via%3Dihub)
@@ -174,6 +219,7 @@ Notes:
   - Tutoring: Expiation + planing (where we "plan" to go somewhere the student has not seen before)
 - There is no _best_ bias
   - Just biases that are most useful in different contexts.
+
 
 Historical note:
 - abduction was my [Ph.D. thesis](https://menzies.us/pdf/96abkl.pdf), waaaaaaay back in time. 
