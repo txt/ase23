@@ -11,11 +11,41 @@
   
 
 
+# What
+
+Using data mining and/or optimizers and/or theorem drovers
+- generate more choices
+- select the ones that satisfy local, and competing, biases
+- empowering more people to have more control over their world
+
+Its all about choice
+- Choice and power
+- and tools to better support those choices
+- And Choice takes us to ethics
+  - how we divide resources
+  - how we should decide who does not get stuff. 
+    - problem, those decisions are usually secret
+    - and  in an ethical world, those decisions are debated before being applied
+
+Challenges
+- How to represent choices?
+- How to excise those choices:
+- How to summarize what you found (above information overload)
+- How to find what you didn't know before
+
+
+| Modeling method                         | Exercise it                                                          | Summarize it                                    |
+|-----------------------------------------|----------------------------------------------------------------------|-------------------------------------------------|
+| Build a model                           | Simulate (controlled by an optimizer                                 | Data mining                                     |
+| Look at historical data                 | Data mining                                                          | Cluster and find contrasts between the clusters |
+| Sketch human intuitions                 | Theorem proving (find biggest subsets that most satisfy constraints) | [theorem proving](#abduction)                  |
+| Assert  contrasts or legal requirements | theorem proving                                                      | Data mining                                     |
 
 
 
 
-# The subject: ethical Automated SE
+
+# Why
 
 This fall, we take a bet on the future and study what might happen to software engineering _after_ the age of bracket matching is over.
 
@@ -32,12 +62,9 @@ Our automated tools lets us explore the world better
 - In this class, your goal as automated software engineers
   - Use your tools to find better options
 
-Using data mining and/or optimizers and/or theorem drovers
-- generate more choices
-- select the ones that satisfy local, and competing, biases
-- empowering more people to have more control over their world
-
-Ethics = power + choice
+Its all about choice
+- Choice and power
+- and tools to better support those choices
 
 
 |                                     Freeman Dyson                                     |                                                Kimberlé Crenshaw [^crenshaw] [^coaston]                                                 |                        Pablo Picasso                         |                            Susan Sontag                            |
@@ -116,26 +143,6 @@ https://bdtechtalks.com/2019/05/30/ai-software-2-automated-programming/
 So you are the generation that will build the next evolution in SE tools where much of the design process will be automated.
 
 How will you do that? Ethically?
-
-Ethics = power + choice
-- how we divide resources
-- how we should decide who does not get stuff. 
-  - problem, those decisions are usually secret
-  - and  in an ethical world, those decisions are debated before being applied
-
-
-Problems with debating choices:
-- How to represent them?
-- How to excise those choices:
-- How to summarize what you Information overload
-
-
-| Modeling method                         | Exercise it                                                          | Summarize it                                    |
-|-----------------------------------------|----------------------------------------------------------------------|-------------------------------------------------|
-| Build a model                           | Simulate (controlled by an optimizer                                 | Data mining                                     |
-| Look at historical data                 | Data mining                                                          | Cluster and find contrasts between the clusters |
-| Sketch human intuitions                 | Theorem proving (find biggest subsets that most satisfy constraints) | [theorem proving](#abduction)                  |
-| Assert  contrasts or legal requirements | theorem proving                                                      | Data mining                                     |
 
 
 e.g. the COMPASS model (who is most like to commit crimes):
