@@ -124,8 +124,6 @@ Given rules of the form "_cause_ &rarr; _effect_" then
 | induction | Lots of observations  of (_cause1_,_effect1_), (_cause2_,_effect2_), (_cause3_,_effect3_), (_cause4_,_effect4_).... | _rule_   | <img src="/docs/img/induction.png"> | possible                    |
 | abduction | _rule_ + _effect_                                                                                                   | _cause_  | <img src="/docs/img/abduction.png"> | not a certain inference (*) |
 
-<img src="/docs/img/logic.png">
-
 (*) How to make a mistake, with abduction:
 - Rule1: The sprinkler wets the grass
 - Rule2: The rain wets the grass
