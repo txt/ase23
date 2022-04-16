@@ -118,11 +118,11 @@ Abduction: inference to the best guess
 
 Given rules of the form "_cause_ &rarr; _effect_" then
 
-| What      | Given                                                         | Generate | Comment                     |
-|-----------|---------------------------------------------------------------|----------|-----------------------------|
-| deduction | _cause_ + _rule_                                              | _effect_ | certain                     |
-| induction | Lots of observations  of (_cause1_,_effect1_), (_cause2_,_effect2_), (_cause3_,_effect3_), (_cause4_,_effect4_)....  | _rule_    | possible          |         |                             |
-| abduction | _rule_ + _effect_ | _cause_ | not a certain inference (*) |
+| What      | Given                                                                                                               | Generate |                                     | Comment                     |
+|-----------|---------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------|-----------------------------|
+| deduction | _cause_ + _rule_                                                                                                    | _effect_ | <img src="/docs/img/deduction.png"> | certain                     |
+| induction | Lots of observations  of (_cause1_,_effect1_), (_cause2_,_effect2_), (_cause3_,_effect3_), (_cause4_,_effect4_).... | _rule_   | <img src="/docs/img/induction.png"> | possible                    |
+| abduction | _rule_ + _effect_                                                                                                   | _cause_  | <img src="/docs/img/abduction.png"> | not a certain inference (*) |
 
 <img src="/docs/img/logic.png">
 
