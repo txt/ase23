@@ -29,6 +29,11 @@ Problems with debating choices:
 | Sketch human intuitions | Theorem proving (find maximal consistent subsets that satisfy most constraints) | [thorem proving](#abduction)) |  
 | Assert properties contrasts or legal requirements | theorem proving  | data mining
 
+e.g. the COMPASS model (who is most like to commit crimes):
+
+<p align=center>
+<img src="img/compass.png" width=600>
+</p>
 
 e.g. 
 - The SCRUM model offered by Mendonca et al. [^mend]
@@ -71,9 +76,10 @@ How do you know if you are ethical?
 - can you recognize who might be harmed by this design?
   - are you talking to those people?
 - are you changing your designs to empower more people?
-# My theory of everything
 
-Abduction: inference to the best gues
+# Abduction
+
+Abduction: inference to the best guess
 
 Given rules of the form _cause_ &rarr; _effect_ then
 
@@ -113,7 +119,7 @@ In practice only subset of _T_ is usable and only some subset of _G_ is achievab
 So:
 
 - _T’ &cup; A’ &rarr; G'_
-- _&not; (T’ &cup; A’ $rarr; nogood)_  
+- _&not; (T’ &cup; A’ &rarr; nogood)_  
 
 Notes:
 - Slow (all those subsets). In fact, formally this is [NP-hard](https://doi.org/10.1016/0004-3702(91)90005-5)
