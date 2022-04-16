@@ -97,6 +97,18 @@ Its all about choice
 
 [^crenshaw]: Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.  Kimberle Crenshaw.  The University of Chicago Legal Forum 140:139-167 (1989)
 
+[^picasso]: From [MFA
+Masterworks](https://news.masterworksfineart.com/2018/10/31/pablo-picasso-and-cubism#:~:text=In%20collaboration%20with%20his%20friend,how%20he%20achieved%20this%20goal.):
+"Pablo Picasso pioneered the Cubism movement, a revolutionary style
+of modern art that Picasso formed in response to the rapidly changing
+modern world.   Picasso wanted to emphasize the difference between
+a painting and reality.Cubism involves different ways of seeing,
+or perceiving, the world around us. He felt that we do not see an
+object from one angle or perspective, but rather from many angles
+selected by sight and movement. As a result of this belief, Cubism
+became about _how_ to see an object or figure rather than _what_ the
+artist was looking at."
+
 
 <hr>
 <h2> gonna b so much FUNNNN !! </h2>
