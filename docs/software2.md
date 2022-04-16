@@ -61,9 +61,10 @@ Why study this subject? Now (in 2022)? Well, right now:
 - more powerful than you know.
 
 <br clear=all>
+
 Software mediates everything
 - down to the pacemakers that control the beating of our heart.
-- you design software, you make those choices, are you aware of the consequences of those choices?
+- you design software, you make those choices, are you controlling for  the consequences of those choices?
 
 e.g 
 consider the choices inside a classifier deciding "you need chemotherapy" or "you don't".
