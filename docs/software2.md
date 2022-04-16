@@ -123,7 +123,7 @@ From "Software 2.0"[^hudson]
 - "Whatever we call ourselves, we’ll be people who are no longer writing code."
 
 
-[^hundson]: How AI and Software 2.0 will change the role of programmers
+[^hudson]: How AI and Software 2.0 will change the role of programmers
 By Ian Huston -May 30, 2019. BbTechTalks.
 https://bdtechtalks.com/2019/05/30/ai-software-2-automated-programming/
 

@@ -83,7 +83,7 @@ Our automated tools lets us explore the world better,  so lets explore it for go
 
 Its all about choice
 - Choice and power
-- and tools to better support those choices
+- and tools to better support better choices
 
 |                                     Freeman Dyson                                     |                                                Kimberlé Crenshaw [^crenshaw] [^coaston]                                                 |                        Pablo Picasso                         |                            Susan Sontag                            |
 |:-------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------------:|
@@ -91,9 +91,7 @@ Its all about choice
 | <img height=125 src="https://upload.wikimedia.org/wikipedia/commons/0/03/Freeman_Dyson_%282005%29.jpg"> |                                              <img height=125 src="/docs/img/crenshaw.png">                                              | <img width=600 src="https://i.pinimg.com/originals/2c/97/b4/2c97b421c756a19468b58546202160e1.jpg"> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Susan_Sontag_1979_%C2%A9Lynn_Gilbert_%28headshot%29.jpg" height=125> 
 
 
-
 [^coaston]: The intersectionality wars By Jane Coaston, jane.coaston@vox.com. Updated May 28, 2019.  https://www.vox.com/the-highlight/2019/5/20/18542843/intersectionality-conservatism-law-race-gender-discrimination
-
 
 [^crenshaw]: Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.  Kimberle Crenshaw.  The University of Chicago Legal Forum 140:139-167 (1989)
 
