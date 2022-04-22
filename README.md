@@ -84,6 +84,11 @@ Our automated tools lets us explore the world better,  so lets explore it for go
 Its all about choice
 - Choice and power
 - and tools to better support better choices
+   
+   Computer science is no more about computers than astronomy is about telescopes.-- Edsger W. Dijkstra.     
+   (e.g. "XAI Tools in the Public Sector: A Case Study on Predicting Combined Sewer Overflows" 
+     Maltbie et al. FSE'21   DOI:https://doi.org/10.1145/3468264.3468547
+
 
 |                                     Freeman Dyson                                     |                                                Kimberlé Crenshaw [^crenshaw] [^coaston]                                                 |                        Pablo Picasso                         |                            Susan Sontag                            |
 |:-------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------------:|
