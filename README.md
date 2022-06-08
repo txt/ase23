@@ -134,6 +134,8 @@ lot of things there are to learn.
 
 ## Grad subject structure (sample)
 
+(Note: often can be taken in any order-- see class syllabus to check if any restrictions apply.)
+
 <img width=900 src="http://se16.unbox.org/_img/subjects.png">
 
 ## About NC State SE
