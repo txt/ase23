@@ -1,42 +1,18 @@
 #!/usr/bin/env bash
 # vim: ft=bash ts=2 sw=2 sts=2 et :
  
-what=ase21
-hi() { 
-  clear
-  tput bold; tput setaf 5
-  cat<<-'EOF'
-
-              ,        _         _                _            _   
-            /'/      /' `\     /' `\      /'   _-~ `\       _-~ `\ 
-          /' /     /'   ._)  /'   ._)    '    (      )     (      )
-       ,/'  /     (____     (___                  _/~          _/~ 
-      /`--,/           ) _-~    `              _/~          _/~    
-    /'    /          /'/'                   _/~          _/~       
-(,/'     (_,(_____,/' (_____,             /~____,/     /~____,/    
-                                                                   
-	EOF
-  tput bold; tput setaf 241
-  echo "Short cuts:"
-  alias | sed 's/alias /  /'
-  echo ""
-  tput sgr0
-}
-
-here="$(dirname $(cd $( dirname "${BASH_SOURCE[0]}" ) && pwd ))"
+here="$(git rev-parse --show-toplevel)"
 
 alias ..='cd ..'
 alias ...='cd ../../../'
 
-alias bye="gp; tmux detach"
 alias egrep='egrep --color=auto'
 alias fgrep='fgrep --color=auto'
 alias gp="git add *;git commit -am save;git push;git status"
 alias grep='grep --color=auto'
 alias h="history"
-alias hello="git pull"
+alias hi="git pull"
 alias ls="ls -G"
-alias tmux="tmux -f $here/etc/dottmux"
 alias vi="vim -u $here/etc/dotvimrc "
 alias vims="vim +PluginInstall +qall"         
 
@@ -45,31 +21,23 @@ export PATH="$PWD:/opt/homebrew/bin:$PATH"
 export EDITOR=$(which pico)
 
 here() { cd $1; basename `pwd`; }
-#!/usr/bin/env bash
 
 PROMPT_COMMAND='echo -ne "👩  $(git branch 2>/dev/null | grep '^*' | colrm 1 2):";PS1="$(here ..)/$(here .):\!\e[m ▶ "'
 
+clear
+tput bold; tput setaf 3
+cat<<-'EOF'
+                               ___       ___     
+                             /'___`\   /'___`\   
+   __      ____     __      /\_\ /\ \ /\_\ /\ \  
+ /'__`\   /',__\  /'__`\    \/_/// /__\/_/// /__ 
+/\ \L\.\_/\__, `\/\  __/       // /_\ \  // /_\ \
+\ \__/.\_\/\____/\ \____\     /\______/ /\______/
+ \/__/\/_/\/___/  \/____/     \/_____/  \/_____/ 
 
-mytmux() {
-  if [ -z "$TMUX" ]; then
-    session=$RANDOM
-#    tmux -f $here/etc/dottmux
-    tmux start-server
-    sleep 1
-    tmux new-session -d -s $session  
-    tmux selectp -t 0
-    tmux send-keys C-m  "etc/h"  C-m
-
-    tmux splitw -h -p 30
-    tmux selectp -t 1
-    tmux send-keys C-m  "etc/h"  C-m
-
-    tmux splitw -v  -p 20
-    tmux selectp -t 2
-    tmux send-keys C-m  "htop"  C-m
-
-    tmux attach-session -t $session
-  fi
-}
-hi
-mytmux
+EOF
+tput bold; tput setaf 241
+echo "Short cuts:"
+alias | sed 's/alias /  /'
+echo ""
+tput sgr0

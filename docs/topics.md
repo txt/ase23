@@ -1,7 +1,18 @@
-AI in Software Engineering at Facebook
-Johannes Bader; Sonia Seohyun Kim; Frank Sifei Luan; Satish Chandra; Erik Meijer
-How can artificial intelligence help software engineers better do their jobs and advance the state of the practice? We describe three productivity tools that learn patterns from software artifacts: code search using natural language, code recommendation, and automatic bug fixing.
-Published in: IEEE Software ( Volume: 38, Issue: 4, July-Aug. 2021
+  <a name=top><br>
+  <p align=center>&nbsp;<a href="/README.md#top">home</a> ::
+  <a href="/docs/syllabus.md#top">syllabus</a> ::
+  <a href="https://drive.google.com/drive/folders/1ZFn6H8-4kx5uP34bpFgIFonkz9Tw3nYM?usp=sharing">groups</a> ::
+  <a href="https://moodle-courses2021.wolfware.ncsu.edu/course/view.php?id=3873">moodle</a> ::
+  <a href="">chat</a>  ::
+  <a href="/LICENSE.md#top">&copy;&nbsp;2022</a><br>
+  <a href="/README.md#top"><img width=600  
+     src="/etc/img/ase23.png"></a></p>
+  
+
+
+
+
+
 
 Fuzz testing
 Paul Butcher on
@@ -21,6 +32,7 @@ o
 HomeMagazinesIEEE Software2021.06
 IEEE Software
 
+
 Can We Trust Theorem Provers for Industrial AI?
 Nov.-Dec. 2021, pp. 104-108, vol. 38
 DOI Bookmark: 10.1109/MS.2021.3103448
@@ -30,3 +42,5 @@ https://www.computer.org/csdl/magazine/so/2021/06/09585188/1xZlyCEEzAY
 Next-Generation Software Verification: An AI Perspective
 Shiva Nejati
 Published in: IEEE Software ( Volume: 38, Issue: 3, May-June 2021)
+
+
