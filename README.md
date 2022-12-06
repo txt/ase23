@@ -51,11 +51,11 @@ This is a project-based class where students will use Python to build and extend
 Lectures:
 <dd>
 TDD<br>
-Data Engineering<br>
+Data&nbsp;Engineering<br>
 Requirements<br>
-Data mining<br>
+Data&nbsp;mining<br>
 Optimization<br>
-Theorem Proving<br>
+Theorem&nbsp;Proving<br>
 Testing<br>
 
 <dt>
