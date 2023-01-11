@@ -22,7 +22,7 @@
 <td align=center><b>Timetable</b> </td>
 </tr>
 <tr>
-<td>
+<td width=500>
 
 <p>
 This subject will explore methods to augment standard software engineering practices with AI methods [data miners, optimizers, theorem provers] 
