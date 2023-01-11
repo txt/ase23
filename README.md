@@ -113,7 +113,7 @@ https://github.com/timm/tested/raw/main/etc/mov/chaptGPT_lua_kmeans.mov
    - does not support streaming
    - does not support hierarchy 
    - nothing about connecting clustering to sampling and optimization
-   - 
+   
 ```
 398  {:Acc+ 15.6 :Lbs- 2970.4 :Mpg+ 23.8}
 | 199
@@ -158,6 +158,10 @@ Now here's nearly the same algorithm, but know we run a greedy search over the s
 | | | | 25  {:Acc+ 17.2 :Lbs- 2001.0 :Mpg+ 33.2}
 ```
 
+- nothing about bias
+
+
+![](/etc/img/fairness.png)
 
 
 My main problem: cognitive fixation:
