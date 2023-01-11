@@ -38,7 +38,7 @@ This is a project-based class where students will use any scripting language the
 
 <p>Topics covered: theorem provers, data miners, multi-objective optimizers, semi-supervised learning, fairness/accountability/trust.
 
-<p>Grading: 20% essay, 25% exams; 25% small homeworks, 30% for large end-of-term project.
+<p>Grading: 21% homeworks, 40% exams; 36% for large end-of-term project.
 
 <p>Textbook: none
 
@@ -51,34 +51,57 @@ This is a project-based class where students will use any scripting language the
 <dt>
 Lectures:
 <dd>
-TDD<br>
-Data&nbsp;Engineering<br>
-Requirements<br>
-Data&nbsp;mining<br>
-Optimization<br>
-Theorem&nbsp;Proving<br>
-Testing<br>
-
-<dt>
-Introduction:
+Jan11
+Jan18&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/script.md">fishing</a><br>
+Jan25&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onScript.md">script</a><br>
+Feb1 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onData.md">data</a><br>
+Febs89 &nbsp;:&nbsp;<a 
+   href="https://github.com/timm/tested/blob/main/docs/onCluster.md">cluster</a><br>
+<a href="https://github.com/timm/tested/blob/main/docs/onOptimize.md">optimize</a>
+<br>
+Feb15 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
+Feb22 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
+Mar1 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
+Mars7(wed)&nbsp;:&nbsp;mid-term, 4:30</a><br>
+Mar15 (break)</a><br>
+Mar21&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
+Mar28&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
+Apr4&nbsp;:&nbsp;project review</a><br>
+Apr11&nbsp;:&nbsp; <a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
+Apr18&nbsp;:&nbsp;no lecture<br>
 <dd>
-
-<dt>
-Videos:
-<dd>
-TBD
 </dl>
 
 
 <!-- -------------------------------- -->
 
 </td><td align=center valign=top xwidth="100px">
+HW details: see 
+<a href="https://github.com/timm/tested/blob/main/ROADMAP.md">roadmap</a><br>
+HW's due Thurs 12:59pm<hr>
+<a href="https://github.com/timm/tested/blob/main/src/script.lua">Jan19</a><br>
+<a href="https://github.com/timm/tested/blob/main/src/data.lua">Jan26</a><br>
+<a href="https://github.com/timm/tested/blob/main/src/cluster.lua">Feb2</a><br>
+<a href="https://github.com/timm/tested/blob/main/src/grid.lua">Feb9</a><br>
 
 </td>
 <td align=center   valign=top xwidth="100px">
  
 </td>
 <td valign=top>
+     	Jan19&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/script.lua">hw1</a><br>
+     	Jan26&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/data.lua">hw2</a><br>
+     	Feb2 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/cluster.lua">hw3</a><br>
+     	Feb9 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/grid.lua">hw4</a><br>
+     	Feb16 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/tbd.lua">hw5</a><br>
+     	Feb23 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/tbd.lua">hw6</a><br>
+     	Mar2 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/tbd.lua">hw7</a><br>
+     	Mar8(wed)&nbsp;:&nbsp;mid-term, 4:30</a><br>
+    	Mar16 (break)</a><br>
+    	Apr5&nbsp;:&nbsp;project review</a><br>
+    	Apr20&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onProject.md">project</a>
+        Apr28&nbsp;:&nbsp;exam, 3:30
+
 </td>
 </tr>
 

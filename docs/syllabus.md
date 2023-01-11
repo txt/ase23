@@ -51,9 +51,7 @@ Textbook: none
 - hyper parameter optimization
 - deep learning
 
-
-
-### Prerequisites
+     ### Prerequisites
 
 
 + CSC 316 and CSC 226 (or equivalent)
@@ -85,7 +83,7 @@ All class communication from staff to students will be via this Discord group.
 
 
 Grades come from 
-- 8 homeworks
+- 7 homeworks
 - 1 mid-session exam 
 - 1 final exam
 - 1 eight page report on a large project (6 weeks) 
@@ -96,7 +94,7 @@ Exams are done individually. Everything else is done in  groups of 3 (groups of 
 
 
 - Homeworks are small tasks 
-  - graded 0 (for no submission), 1 (for "please try again") and 2 for "good".
+  - graded 0 (for no submission), 1 (for "please try again") and 3 for "good".
   - may be submitted multiple times
 - Projects comprise a  large tasks  (groups of 3 people, working in public Github repos-- not NCSU GH):
 
@@ -106,10 +104,10 @@ Exams are done individually. Everything else is done in  groups of 3 (groups of 
 
 |group |mark   | notes                                                      | 
 |------|-------|------------------------------------------------------------|
-|homework (group)     | 8 \* 2    | setting up your repo/software/team      | 
-|exam (solo)          | 14        | mid-term                                | 
-|                     | 30        | final                                   |
-|project (group)      | 40        | project report                          |
+|homework (group)     | 7 \* 3    | setting up your repo/software/team      | 
+|exam (solo)          | 20        | mid-term                                | 
+|                     | 20        | final                                   |
+|project (group)      | 39        | project report                          |
 
 
  
@@ -182,7 +180,6 @@ Andre Lustosa (Mr. Wednesday)
 + Discord name: SargeHawk#1591
 + Office Hours: Wednesday, 2:00-4:00
 + E-mail:  <alustos@ncsu.edu>
-
 
 [![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/alustos)
 
