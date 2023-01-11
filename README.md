@@ -100,9 +100,9 @@ Apr18&nbsp;:&nbsp;no lecture<br>
 
 
 
-##Why?
+## Why?
 
-https://github.com/timm/tested/raw/main/etc/mov/chaptGPT_lua_kmeans.mov
+[mov](https://github.com/timm/tested/raw/main/etc/mov/chaptGPT_lua_kmeans.mov)
 
 > Rahul's first rule: when it is wrong, it so confidently wrong that you cannot tell.
 
@@ -161,7 +161,7 @@ Now here's nearly the same algorithm, but know we run a greedy search over the s
 - nothing about bias
 
 
-![](/etc/img/fairness.png)
+<img src="/etc/img/fairness.png">
 
 
 My main problem: cognitive fixation:
