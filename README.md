@@ -58,13 +58,11 @@ This is a project-based class where students will use any scripting language the
 <dt>
 Lectures:
 <dd>
-Jan11
-Jan18&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/script.md">fishing</a><br>
-Jan25&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onScript.md">script</a><br>
-Feb1 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onData.md">data</a><br>
-Febs89 &nbsp;:&nbsp;<a 
-   href="https://github.com/timm/tested/blob/main/docs/onCluster.md">cluster</a>;
-<a href="https://github.com/timm/tested/blob/main/docs/onOptimize.md">optimize</a>
+Jan11&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/fishing.md">fishing</a><br>
+Jan18&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onScript.md">script</a><br>
+Jan25&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onData.md">data</a><br>
+Feb1 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onCluster.md">cluster</a><br>
+Febs8 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onOptimize.md">optimize</a>
 <br>
 Feb15 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
 Feb22 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
