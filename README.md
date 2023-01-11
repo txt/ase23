@@ -36,7 +36,18 @@ that that peek over over our shoulders to say try this, and don't bother that.
 This is a project-based class where students will use any scripting language they like  to build and extend their own AI tools for software engineering. 
  500 level students will work in groups.
 
-<p>Topics covered: theorem provers, data miners, multi-objective optimizers, semi-supervised learning, fairness/accountability/trust.
+<p>Topics covered: 
+ scripting;
+ clustering;
+ optimization;
+ data mining;
+ theorem proving;
+ requirements engineering;
+ discretization  ;
+ explainable AI, ;
+ statistics for experimental algorithms,;
+ hyper parameter optimization;
+ deep learning
 
 <p>Grading: 21% homeworks, 40% exams; 36% for large end-of-term project.
 

@@ -196,11 +196,11 @@ Sherry (Xueqi) Yang (Ms. Thursday)
 
 
 + Discord  name: Xueqi(Sherry) Yang#8548
-+ Office Hours: Thursday, 2:00-4:00  
++ Office Hours: Thursday, 1:00-3:00  
 + E-mail: xyang37@ncsu.edu
 
 
-[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/wshi6)
+[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/xyang37/15min)
 
 
 <br clear=all>
@@ -219,12 +219,9 @@ Rahul Yedida (Mr. Tuesday)
 + Office Hours: Monday, 2:00-4:00  
 + E-mail: yrahul3910@gmail.com
 
-
-[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/ryedida)
-
+[![](https://academics.umw.edu/writing-fredericksburg/files/2013/08/schedule-appointment-button-orange-300x154.png)](https://calendly.com/ryedida/csc591-office-hours)
 
 <br clear=all>
-
 
 -------
 
