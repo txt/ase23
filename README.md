@@ -23,8 +23,8 @@
 <td width=500>
 
 <p>
-This subject will explore methods to augment standard software engineering practices with AI methods [data miners, optimizers, theorem provers] 
-that that peek over over our shoulders to say try this, and don't bother that.
+This subject is a peek under the hood of 
+   under the hood of data mining, optimization, theorem proving and all the other tricks of automated software engineering.
 
 <p>
 This is a project-based class where students will use any scripting language they like  to build and extend their own AI tools for software engineering. 
@@ -96,3 +96,80 @@ Apr18&nbsp;:&nbsp;no lecture<br>
 </tr>
 
 </table>
+
+
+
+
+##Why?
+
+https://github.com/timm/tested/raw/main/etc/mov/chaptGPT_lua_kmeans.mov
+
+> Rahul's first rule: when it is wrong, it so confidently wrong that you cannot tell.
+
+- wrong, on several points
+   - security 
+   - hard-wired constants that should be adjustable
+   - does not support symbolics
+   - does not support streaming
+   - does not support hierarchy 
+   - nothing about connecting clustering to sampling and optimization
+   - 
+```
+398  {:Acc+ 15.6 :Lbs- 2970.4 :Mpg+ 23.8}
+| 199
+| | 99
+| | | 49
+| | | | 24  {:Acc+ 17.3 :Lbs- 2623.5 :Mpg+ 30.4}
+| | | | 25  {:Acc+ 16.3 :Lbs- 2693.4 :Mpg+ 29.2}
+| | | 50
+| | | | 25  {:Acc+ 15.8 :Lbs- 2446.1 :Mpg+ 27.2}
+| | | | 25  {:Acc+ 16.7 :Lbs- 2309.2 :Mpg+ 26.0}
+| | 100
+| | | 50
+| | | | 25  {:Acc+ 16.2 :Lbs- 2362.5 :Mpg+ 32.0}
+| | | | 25  {:Acc+ 16.4 :Lbs- 2184.1 :Mpg+ 34.8}
+| | | 50
+| | | | 25  {:Acc+ 16.2 :Lbs- 2185.8 :Mpg+ 29.6} <== best?
+| | | | 25  {:Acc+ 16.3 :Lbs- 2179.4 :Mpg+ 26.4}
+| 199
+| | 99
+| | | 49
+| | | | 24  {:Acc+ 16.6 :Lbs- 2716.9 :Mpg+ 22.5}
+| | | | 25  {:Acc+ 16.1 :Lbs- 3063.5 :Mpg+ 20.4}
+| | | 50
+| | | | 25  {:Acc+ 17.4 :Lbs- 3104.6 :Mpg+ 21.6}
+| | | | 25  {:Acc+ 16.3 :Lbs- 3145.6 :Mpg+ 22.0}
+| | 100
+| | | 50
+| | | | 25  {:Acc+ 12.4 :Lbs- 4320.5 :Mpg+ 12.4}
+| | | | 25  {:Acc+ 11.3 :Lbs- 4194.2 :Mpg+ 12.8} <== worst
+| | | 50
+| | | | 25  {:Acc+ 13.7 :Lbs- 4143.1 :Mpg+ 18.0}
+| | | | 25  {:Acc+ 14.4 :Lbs- 3830.2 :Mpg+ 16.4}
+```
+
+Now here's nearly the same algorithm, but know we run a greedy search over the splits. When splitting on two distance points  A,B, we peek at the  Y values and ignore the worse half.
+
+```
+398  {:Acc+ 15.6 :Lbs- 2970.4 :Mpg+ 23.8}
+| 199
+| | 100
+| | | 50
+| | | | 25  {:Acc+ 17.2 :Lbs- 2001.0 :Mpg+ 33.2}
+```
+
+
+
+My main problem: cognitive fixation:
+
+"If it was up to current thinking (in the 1920s)  to cure polio. . . You'd have the best iron lung in the world but not a polio vaccine."
+
+![image](https://user-images.githubusercontent.com/29195/211912925-0a9dda23-71d6-4c48-87b0-ebb3bd1eff39.png)
+
+![image](https://user-images.githubusercontent.com/29195/211912983-1cc21e0b-d545-4e08-af3f-bb45d3c21f09.gif)
+
+
+
+> Rahul's second rule: you need to know a lot about the code to to make best use of automatically generated code.
+
+This subject:  under the hood of data mining, optimization, theorem proving and all the other tricks of automated software engineering
