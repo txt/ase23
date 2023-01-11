@@ -14,16 +14,12 @@
 <tr>
 <td></td>
 <td align=center width=200><img           src="/etc/img/lectures.gif"></td>
-<td align=center><img           src="/etc/img/homework.png"></td>
-<td align=center><img           src="/etc/img/review.gif"></td>
 <td align=center width=200><img  width=64 src="/etc/img/time.png"></td>
 </tr>
 <tr>
 <td></td>
 <td align=center><b>Lectures</b></td>
-<td align=center><b>Project/HW</b>
-</td><td align=center><b>Review </td>
-<td align=center><b>Events</b> </td>
+<td align=center><b>Timetable</b> </td>
 </tr>
 <tr>
 <td>
@@ -73,7 +69,7 @@ Febs89 &nbsp;:&nbsp;<a
 Feb15 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
 Feb22 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
 Mar1 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
-Mars7(wed)&nbsp;:&nbsp;mid-term, 4:30</a><br>
+Mars7(wed)&nbsp;:&nbsp;mid-term,&nbsp;4:30</a><br>
 Mar15 (break)</a><br>
 Mar21&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
 Mar28&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
@@ -86,19 +82,6 @@ Apr18&nbsp;:&nbsp;no lecture<br>
 
 <!-- -------------------------------- -->
 
-</td><td align=center valign=top xwidth="100px">
-HW details: see 
-<a href="https://github.com/timm/tested/blob/main/ROADMAP.md">roadmap</a><br>
-HW's due Thurs 12:59pm<hr>
-<a href="https://github.com/timm/tested/blob/main/src/script.lua">Jan19</a><br>
-<a href="https://github.com/timm/tested/blob/main/src/data.lua">Jan26</a><br>
-<a href="https://github.com/timm/tested/blob/main/src/cluster.lua">Feb2</a><br>
-<a href="https://github.com/timm/tested/blob/main/src/grid.lua">Feb9</a><br>
-
-</td>
-<td align=center   valign=top xwidth="100px">
- 
-</td>
 <td valign=top>
      	Jan19&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/script.lua">hw1</a><br>
      	Jan26&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/data.lua">hw2</a><br>
