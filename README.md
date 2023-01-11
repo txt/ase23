@@ -161,7 +161,7 @@ Now here's nearly the same algorithm, but know we run a greedy search over the s
 - nothing about bias
 
 
-<img src="/etc/img/fairness.png">
+<img src="https://github.com/timm/tested/blob/main/etc/img/fairness.png?raw=true">
 
 
 My main problem: cognitive fixation:
