@@ -17,10 +17,8 @@ We 4:30PM - 7:15PM
 
 ## Overview
 
-This subject will explore methods to augment standard software
-engineering practices with AI methods [data miners, optimizers,
-theorem provers] that that peek over over our shoulders to say try
-this, and don't bother that.
+This subject is a peek under the hood of 
+   under the hood of data mining, optimization, theorem proving and all the other tricks of automated software engineering.
 
 This is a project-based class where students will use any
 scripting language they like to
