@@ -33,7 +33,7 @@ This subject will explore methods to augment standard software engineering pract
 that that peek over over our shoulders to say try this, and don't bother that.
 
 <p>
-This is a project-based class where students will use Python to build and extend their own AI tools for software engineering. 
+This is a project-based class where students will use any scripting language they like  to build and extend their own AI tools for software engineering. 
  500 level students will work in groups.
 
 <p>Topics covered: theorem provers, data miners, multi-objective optimizers, semi-supervised learning, fairness/accountability/trust.
