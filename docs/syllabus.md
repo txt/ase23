@@ -238,7 +238,18 @@ Rahul Yedida (Mr. Tuesday)
 ### Attendance
 
 
-- Lectures are twice a week.
+- Lectures are once a week. Attendance is mandatory
+  - Each week, 25 names at radnom will be selected. Those students must show their student Id to the tutor before end of class. Else they will earn a
+    "missed class" mark.
+  - After two missed classes, each additional missed class marks will cost students 1 mark UNLESS the abscense is something condonned by the 
+    university:
+     - Representing an official university function (e.g. athletics)
+     - Required court attendance as certified by the Clerk of Court.
+     - Students will be allowed a minimum of two excused absences per academic year for religious observances 
+     - Required military duty as certified by the student's commanding officer.
+     - Unanticipated absences. Examples include:
+       - Short-term illness or injury
+       - Death or serious illnesses in the family when documented appropriately. 
 - Tutorial sessions are optional, but please use our tutorial resources
   to help you along.
 - Please make sure you experience the lectures (either live or watching
@@ -246,19 +257,8 @@ Rahul Yedida (Mr. Tuesday)
 - Aside from that, you have  to service all your homework, and project
   commitments. It is very bad to be absent from your project except
   for anticipated absences condonned by the univerisity:
-     - Representing an official university function (e.g. athletics)
-     - Required court attendance as certified by the Clerk of Court.
-     - Students will be allowed a minimum of two excused absences per academic year for religious observances 
-     - Required military duty as certified by the student's commanding officer.
-- Unanticipated absences. Examples include:
-     - Short-term illness or injury
-     - Death or serious illnesses in the family when documented appropriately. 
-
-
+  
 On top of that, Covid-related issues will, of course, also be excused.
-
-
-(And no where on that list is "I have to go to a wedding in India".)
 
 
 ### Expected Workload
