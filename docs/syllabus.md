@@ -1,11 +1,12 @@
-<a name=top><br>
-<p align=center>&nbsp;<a href="/README.md#top">home</a> ::
-<a href="/docs/syllabus.md#top">syllabus</a> ::
-<a href="https://docs.google.com/spreadsheets/d/1YHZPRLfchksx541yaojJE_loOh2g4FaVKtrVcquoYIw/edit#gid=0">groups</a> ::
-<a href="/LICENSE.md#top">&copy;&nbsp;2023</a> <a href="http://menzies.us">timm</a><br>
-<a href="/README.md#top"><img width=600  
-   src="/etc/img/ase23.png"></a></p>
- 
+ <a name=top><br>
+  <p align=center>&nbsp;<a href="/README.md#top">home</a> ::
+  <a href="/docs/syllabus.md#top">syllabus</a> ::
+  <a href="https://docs.google.com/spreadsheets/d/1YHZPRLfchksx541yaojJE_loOh2g4FaVKtrVcquoYIw/edit#gid=0">groups</a> ::
+  <a href="https://discord.gg/FYwfQuNzPB">chat</a>  ::
+  <a href="/LICENSE.md#top">&copy;&nbsp;2023</a> <a href="http://menzies.us">timm</a><br>
+  <a href="/README.md#top"><img width=600  
+     src="/etc/img/ase23.png"></a></p>
+
 
 # Syllabus: Automated Software Engineering
 
@@ -47,7 +48,7 @@ Textbook: none
 - hyper parameter optimization
 - deep learning
 
-     ### Prerequisites
+### Prerequisites
 
 
 + CSC 316 and CSC 226 (or equivalent)
