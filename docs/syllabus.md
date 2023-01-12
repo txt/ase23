@@ -28,7 +28,7 @@ level students will work in groups.
 Topics covered: theorem provers, data miners, multi-objective
 optimizers, semi-supervised learning, fairness/accountability/trust.
 
-Grading: 20% essay, 25% exams; 25% small homeworks, 30% for large
+Grading:  40% exams; 21% small homeworks, 39% for large
 end-of-term project.
 
 Textbook: none
@@ -229,6 +229,7 @@ Rahul Yedida (Mr. Tuesday)
 
 
 - Lectures are once a week. Attendance is mandatory
+  - If the room has at least 90 students, there will not roll call. Else...
   - Each week, 25 names at radnom will be selected. Those students must show their student Id to the tutor before end of class. Else they will earn a
     "missed class" mark.
   - After two missed classes, each additional missed class marks will cost students 1 mark UNLESS the abscense is something condonned by the 
