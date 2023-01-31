@@ -63,9 +63,9 @@ Jan11&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onFishi
 Jan18&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onScript.md">script</a><br>
 Jan25&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onData.md">data</a><br>
 Feb1 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onCluster.md">cluster</a><br>
-Febs8 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onGrid.md">rep grids</a>
+Febs8 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onOptimize.md">optimize</a>
 <br>
-Feb15 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
+Feb15 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onRe.md">req.eng</aa><br>
 Feb22 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
 Mar1 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
 Mar7(wed)&nbsp;:&nbsp;mid-term,&nbsp;4:30</a><br>
@@ -85,7 +85,7 @@ Apr18&nbsp;:&nbsp;no lecture<br>
      	Jan19&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/script.lua">hw1</a><br>
      	Jan26&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/data.lua">hw2</a><br>
      	Feb2 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/cluster.lua">hw3</a><br>
-     	Feb9 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/grid.lua">hw4</a><br>
+     	Feb9 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onGrid.lua">hw4</a><br>
      	Feb16 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/tbd.lua">hw5</a><br>
      	Feb23 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/tbd.lua">hw6</a><br>
      	Mar2 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/tbd.lua">hw7</a><br>
