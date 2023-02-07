@@ -64,6 +64,7 @@ Jan18&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onScrip
 Jan25&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onData.md">data</a><br>
 Feb1 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onCluster.md">cluster</a><br>
 Febs8 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onOptimize.md">optimize</a>
+Febs8 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onOptimizeExamples.md">optimize(e.g.s)</a>
 <br>
 Feb15 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onRe.md">req.eng</aa><br>
 Feb22 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
