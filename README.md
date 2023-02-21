@@ -69,7 +69,7 @@ Febs8 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onOpti
 Feb15 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onRe.md">req.eng</aa><br>
 Feb22 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
 Mar1 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
-Mar7(wed)&nbsp;:&nbsp;mid-term,&nbsp;4:30</a><br>
+Mar8(wed)&nbsp;:&nbsp;mid-term,&nbsp;4:30</a><br>
 Mar15 (break)</a><br>
 Mar21&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
 Mar28&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/tbd.md">...</a><br>
