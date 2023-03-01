@@ -90,8 +90,9 @@ Apr18&nbsp;:&nbsp;no lecture<br>
      	Feb16 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onBins.md">hw5</a><br>
      	Mar6 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onExplain.md">hw6</a><br>
       Mar8(wed)&nbsp;:&nbsp;mid-term, 4:30</a><br>
-     	Mar13 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/src/tbd.lua">hw7</a><br>
     	Mar16 (break)</a><br>
+     	Mar22 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onStats.md">hw7</a><br>
+        Mar30 &nbsp;:&nbsp; Last day to submit revised homeworks<br>
     	Apr5&nbsp;:&nbsp;project review</a><br>
     	Apr20&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onProject.md">project</a>
         Apr28&nbsp;:&nbsp;exam, 3:30
