@@ -93,7 +93,7 @@ Apr18&nbsp;:&nbsp;no lecture<br>
     	Mar16 (break)</a><br>
      	Mar21 &nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onStats.md">hw7</a><br>
         Mar30 &nbsp;:&nbsp; Last day to submit revised homeworks<br>
-    	Apr5&nbsp;:&nbsp;project review</a><br>
+    	<strike>Apr5&nbsp;:&nbsp;project review</a></strike><br>
     	Apr20&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onProject.md">project</a>
         <strike>Apr28&nbsp;:&nbsp;exam, 3:30</strike>
 
