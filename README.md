@@ -95,7 +95,7 @@ Apr18&nbsp;:&nbsp;no lecture<br>
         Mar30 &nbsp;:&nbsp; Last day to submit revised homeworks<br>
     	Apr5&nbsp;:&nbsp;project review</a><br>
     	Apr20&nbsp;:&nbsp;<a href="https://github.com/timm/tested/blob/main/docs/onProject.md">project</a>
-        Apr28&nbsp;:&nbsp;exam, 3:30
+        <strike>Apr28&nbsp;:&nbsp;exam, 3:30</strike>
 
 </td>
 </tr>
