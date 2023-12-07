@@ -1,0 +1,6 @@
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias h='history'
+alias gp="git add *;git commit -am save;git push;git status"
+alias grep='grep --color=auto'
+alias ls="ls -G"

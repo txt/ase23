@@ -1,5 +1,21 @@
 # projects
 
+## process
+
+- management team: milestones management, user liason,
+  task priorization
+- tooling team: doc, scripts, short cuts, pre-, post- commit hooks
+  - please consider pdoc or pycco
+- testing team: lots of tests, maintaining the test suite,
+  running the test suite, test case prioriization
+- coding team; new functionality
+  - divide the code base into N bits
+
+## Tasks
+- destroy all this tech. find someway to improta tables
+  of data with no goal info and after minimal questions
+  learn which rows a preferred by most users
+  - note: I don't know how to do this. 
 - sway vs sequential model optimize (bayes)
 - try different clustering. different recursive bi-cluster
 - try a project managers toolkit. 
