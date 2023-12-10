@@ -10,8 +10,17 @@
   running the test suite, test case prioriization
 - coding team; new functionality
   - divide the code base into N bits
+- the optimization team. welcome to software 2.0
+  - Software 2.0 most often the source code comprises 
+   -  the dataset that defines the desirable behavior 
+   - the architecture that gives the rough skeleton of the code, 
+     but with many details (the config options) to be filled in. 
+   - some optimizaion strategy that keeps reviewing the
+     data to adjust the config options.
 
 ## Tasks
+- x is y and when i code it that way, i get results (for x or y) that
+  beat the prior state of the art (simpler and faster or better)
 - destroy all this tech. find someway to improta tables
   of data with no goal info and after minimal questions
   learn which rows a preferred by most users
